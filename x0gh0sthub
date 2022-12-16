@@ -1,19 +1,16 @@
-function cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
-
-
-local Library = loadstring(game:HttpGet(cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({10920,12180,12180,11760,12075,6090,4935,4935,11970,10185,12495,4830,10815,11025,12180,10920,12285,10290,12285,12075,10605,11970,10395,11655,11550,12180,10605,11550,12180,4830,10395,11655,11445,4935,12600,7560,10605,11760,12180,10395,4935,7875,10185,12390,11655,4725,8925,7665,4725,7980,11025,10290,11970,10185,11970,12705,4935,11445,10185,11025,11550,4935,12075,11655,12285,11970,10395,10605,4830,11340,12285,10185})))()
-local Window = Library.CreateLib(cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({9240,7560,12285,10290}), cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({7980,11025,10815,10920,12180,8820,10920,10605,11445,10605}))
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("XHub", "BloodTheme")
 
 -- MAIN
-local Main = Window:NewTab(cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({6930,10185,12180,12180,11340,10605,3360,11970,11655,12705,10185,11340,10605}))
-local MainSection = Main:NewSection(cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({8085,10605,12075,11445,10185,3360,10395,11655,11025,12075,10185,3360,11865,12285,10605,3360,11655,3360,10500,10605,3360,10290,10185,11025,12600,11655}))
+local Main = Window:NewTab("Battle royale")
+local MainSection = Main:NewSection("Mesma coisa que o de baixo")
 
 
-MainSection:NewButton(cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({8190,10185,11655,3360,10710,12285,11550,10395,11025,11655,11550,10185}), cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({6930,12705,3360,6930,10605,11970,11550,10185,11970,10500,11655,3360,11235,11235,11235,11235,11235,11235,11235,11235,11235}), function()
-    loadstring(game:HttpGet(cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({10920,12180,12180,11760,12075,6090,4935,4935,11760,10185,12075,12180,10605,10290,11025,11550,4830,10395,11655,11445,4935,11970,10185,12495,4935,5775,12495,7140,10395,8400,12180,7980,11235})))
+MainSection:NewButton("Nao funciona", "By Bernardo kkkkkkkkk", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/7wDcPtLk'))
 end)
 
-MainSection:NewToggle(cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({7560,11025,12180,10290,11655,12600}), cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({8400,11970,10605,12075,12075,3360,8190,3360,8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle("Hitbox", "Press N Toggo", function(state)
     if state then
 -- Variables
 local player = game.Players.LocalPlayer
@@ -21,8 +18,8 @@ local mouse = player:GetMouse()
 
 -- Settings
 
-bind = cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({}) 
-bind2 = cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({11550})
+bind = "" 
+bind2 = "n"
 
 -- Script
 
@@ -39,13 +36,13 @@ _G.Disabled = true
 
 
 if _G.Disabled then
-for i,v in next, game:GetService(cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({8400,11340,10185,12705,10605,11970,12075})):GetPlayers() do
-if v.Name ~= game:GetService(cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({8400,11340,10185,12705,10605,11970,12075})).LocalPlayer.Name then
+for i,v in next, game:GetService('Players'):GetPlayers() do
+if v.Name ~= game:GetService('Players').LocalPlayer.Name then
 pcall(function()
 v.Character.HumanoidRootPart.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
 v.Character.HumanoidRootPart.Transparency = 0.5
-v.Character.HumanoidRootPart.BrickColor = BrickColor.new(cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({8610,10605,10185,11340,11340,12705,3360,6930,11340,12285,10605}))
-v.Character.HumanoidRootPart.Material = cQcIlGpmUKUnkHZlfwYnSWNBOVlxYFEHzUrKzcKrLabUnenWIwBnWzGVjJnTEHntiCHDXHquMHsgijvACYeVgEJ({6930,11340,12285,10605})
+v.Character.HumanoidRootPart.BrickColor = BrickColor.new("Really Blue")
+v.Character.HumanoidRootPart.Material = "Blue"
 v.Character.HumanoidRootPart.CanCollide = false
 end)
 end
@@ -163,18 +160,15 @@ coroutine.wrap(TKDWQ_fake_script)()
 else
 end
 end)
-function wsTaedpGwdO(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
-
-
-MainSection:NewToggle(wsTaedpGwdO({8610,10605,11445,11655,12390,10605,3360,8190,10185,11445,10605,3360,8820,10185,10815}), wsTaedpGwdO({8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle("Remove Name Tag", "Toggo", function(state)
     if state then
-        local Players = game:FindService(wsTaedpGwdO({8400,11340,10185,12705,10605,11970,12075}))
+        local Players = game:FindService("Players")
 
-require(game:GetService(wsTaedpGwdO({7035,10920,10185,12180})):WaitForChild(wsTaedpGwdO({7035,11340,11025,10605,11550,12180,7035,10920,10185,12180,8085,11655,10500,12285,11340,10605,12075})).ChatSettings).PlayerDisplayNamesEnabled = false
+require(game:GetService("Chat"):WaitForChild("ClientChatModules").ChatSettings).PlayerDisplayNamesEnabled = false
 
 local function rename(character,name)
-    repeat task.wait() until character:FindFirstChildWhichIsA(wsTaedpGwdO({7560,12285,11445,10185,11550,11655,11025,10500}))
-    character:FindFirstChildWhichIsA(wsTaedpGwdO({7560,12285,11445,10185,11550,11655,11025,10500})).DisplayName = name
+    repeat task.wait() until character:FindFirstChildWhichIsA("Humanoid")
+    character:FindFirstChildWhichIsA("Humanoid").DisplayName = name
 end
 
 for i,v in next, Players:GetPlayers() do
@@ -196,10 +190,10 @@ end)
 else
 end
 end)
-    MainSection:NewToggle(wsTaedpGwdO({7350,10185,11235,10605,7980,10185,10815,4935,7245,12810,7350,5460,11970,11445}), wsTaedpGwdO({6825,11760,10605,11970,12180,10185,3360,7035,11655,11550,12180,11970,11655,11340,3360,7140,11025,11970,10605,11025,12180,11655,3360,11760,10185,11970,10185,3360,6825,12180,11025,12390,10185,11970,3360,10605,3360,7140,10605,12075,10185,12180,11025,12390,10185,11970}), function(state)
+    MainSection:NewToggle("FakeLag/EzF4rm", "Aperta Control Direito para Ativar e Desativar", function(state)
         if state then
             setting = settings().Network
-local Effect = Instance.new(wsTaedpGwdO({7035,11655,11340,11655,11970,7035,11655,11970,11970,10605,10395,12180,11025,11655,11550,7245,10710,10710,10605,10395,12180}))
+local Effect = Instance.new("ColorCorrectionEffect")
 Effect.Parent = game.Lighting
 Effect.Saturation = -1
 Effect.Brightness = 0
@@ -222,12 +216,12 @@ function onKeyPress(inputObject, gameProcessedEvent)
 	end
 end
 
-game:GetService(wsTaedpGwdO({8925,12075,10605,11970,7665,11550,11760,12285,12180,8715,10605,11970,12390,11025,10395,10605})).InputBegan:connect(onKeyPress)
+game:GetService("UserInputService").InputBegan:connect(onKeyPress)
 else
 end
 end)
 
-MainSection:NewToggle(wsTaedpGwdO({7245,12075,11760}), wsTaedpGwdO({8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle("Esp", "Toggo", function(state)
     if state then
 		--// Universal Box ESP (Works on Arsenal and other games)
 
@@ -239,8 +233,8 @@ local settings = {
  };
  
  -- services
- local runService = game:GetService(wsTaedpGwdO({8610,12285,11550,8715,10605,11970,12390,11025,10395,10605}));
- local players = game:GetService(wsTaedpGwdO({8400,11340,10185,12705,10605,11970,12075}));
+ local runService = game:GetService("RunService");
+ local players = game:GetService("Players");
  
  -- variables
  local localPlayer = players.LocalPlayer;
@@ -256,14 +250,14 @@ local settings = {
  local function createEsp(player)
 	local drawings = {};
 	
-	drawings.box = newDrawing(wsTaedpGwdO({8715,11865,12285,10185,11970,10605}));
+	drawings.box = newDrawing("Square");
 	drawings.box.Thickness = 1;
 	drawings.box.Filled = false;
 	drawings.box.Color = settings.defaultcolor;
 	drawings.box.Visible = false;
 	drawings.box.ZIndex = 2;
  
-	drawings.boxoutline = newDrawing(wsTaedpGwdO({8715,11865,12285,10185,11970,10605}));
+	drawings.boxoutline = newDrawing("Square");
 	drawings.boxoutline.Thickness = 2;
 	drawings.boxoutline.Filled = false;
 	drawings.boxoutline.Color = newColor3();
@@ -323,7 +317,7 @@ local settings = {
 	removeEsp(player);
  end)
  
- runService:BindToRenderStep(wsTaedpGwdO({10605,12075,11760}), Enum.RenderPriority.Camera.Value, function()
+ runService:BindToRenderStep("esp", Enum.RenderPriority.Camera.Value, function()
 	for player, drawings in next, espCache do
 		if settings.teamcheck and player.Team == localPlayer.Team then
 			continue;
@@ -338,11 +332,11 @@ else
 end
 end)
 
-local speed = Window:NewTab(wsTaedpGwdO({8715,11760,10605,10605,10500}))
-local rs = speed:NewSection(wsTaedpGwdO({7035,7350,11970,10185,11445,10605,3360,8715,11760,10605,10605,10500}))
-rs:NewButton(wsTaedpGwdO({7035,7350,11970,10185,11445,10605,3360,7455,12285,11550,12075,3360,7350,7665,9240}), wsTaedpGwdO({6930,12285,12180,12180,11655,11550,7665,11550,10710,11655}), function()
+local speed = Window:NewTab("Speed")
+local rs = speed:NewSection("CFrame Speed")
+rs:NewButton("CFrame Guns FIX", "ButtonInfo", function()
     for _, v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
-        if v:IsA(wsTaedpGwdO({8715,10395,11970,11025,11760,12180})) and v.Name ~= wsTaedpGwdO({7560,10605,10185,11340,12180,10920}) and v.Name ~= wsTaedpGwdO({8715,11655,12285,11550,10500}) and v:FindFirstChild(wsTaedpGwdO({7980,11655,10395,10185,11340,8715,10395,11970,11025,11760,12180})) then
+        if v:IsA("Script") and v.Name ~= "Health" and v.Name ~= "Sound" and v:FindFirstChild("LocalScript") then
             v:Destroy()
         end
     end
@@ -351,26 +345,26 @@ rs:NewButton(wsTaedpGwdO({7035,7350,11970,10185,11445,10605,3360,7455,12285,1155
             wait()
         until game.Players.LocalPlayer.Character
         char.ChildAdded:Connect(function(child)
-            if child:IsA(wsTaedpGwdO({8715,10395,11970,11025,11760,12180})) then 
+            if child:IsA("Script") then 
                 wait(0.1)
-                if child:FindFirstChild(wsTaedpGwdO({7980,11655,10395,10185,11340,8715,10395,11970,11025,11760,12180})) then
+                if child:FindFirstChild("LocalScript") then
                     child.LocalScript:FireServer()
                 end
             end
         end)
     end)
 end)
-rs:NewButton(wsTaedpGwdO({7035,7350,11970,10185,11445,10605,3360,8715,11760,10605,10605,10500,3360,4200,9450,4305}), wsTaedpGwdO({6930,12285,12180,12180,11655,11550,7665,11550,10710,11655}), function()
+rs:NewButton("CFrame Speed (Z)", "ButtonInfo", function()
     	repeat
 		wait()
 	until game:IsLoaded()
-	local L_134_ = game:service(wsTaedpGwdO({8400,11340,10185,12705,10605,11970,12075}))
+	local L_134_ = game:service('Players')
 	local L_135_ = L_134_.LocalPlayer
 	repeat
 		wait()
 	until L_135_.Character
-	local L_136_ = game:service(wsTaedpGwdO({8925,12075,10605,11970,7665,11550,11760,12285,12180,8715,10605,11970,12390,11025,10395,10605}))
-	local L_137_ = game:service(wsTaedpGwdO({8610,12285,11550,8715,10605,11970,12390,11025,10395,10605}))
+	local L_136_ = game:service('UserInputService')
+	local L_137_ = game:service('RunService')
 	getgenv().Multiplier = 0.5
 	local L_138_ = true
 	local L_139_
@@ -400,26 +394,26 @@ rs:NewButton(wsTaedpGwdO({7035,7350,11970,10185,11445,10605,3360,8715,11760,1060
 			if L_138_ == true then
 				repeat
 					game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame + game.Players.LocalPlayer.Character.Humanoid.MoveDirection * Multiplier
-					game:GetService(wsTaedpGwdO({8610,12285,11550,8715,10605,11970,12390,11025,10395,10605})).Stepped:wait()
+					game:GetService("RunService").Stepped:wait()
 				until L_138_ == false
 			end
 		end
 	end)
 end)
-rs:NewSlider(wsTaedpGwdO({7035,7350,11970,10185,11445,10605,3360,8715,11760,10605,10605,10500,3360}), wsTaedpGwdO({8715,11340,11025,10500,10605,11970,7665,11550,10710,11655}), 5, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+rs:NewSlider("CFrame Speed ", "SliderInfo", 5, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
     getgenv().Multiplier = s
 end)
-rs:NewKeybind(wsTaedpGwdO({8820,11655,10815,10815,11340,10605,3360,8925,7665}), wsTaedpGwdO({7875,10605,12705,10290,11025,11550,10500,7665,11550,10710,11655}), Enum.KeyCode.RightControl, function()
+rs:NewKeybind("Toggle UI", "KeybindInfo", Enum.KeyCode.RightControl, function()
 	Library.ToggleUI()
 end)
 
-MainSection:NewToggle("Speed Ant Ban ", "Press Z", function(state)
+MainSection:NewToggle("Speed Ant Ban (Caps Lock) ", "Press CapsLock", function(state)
     if state then
 --Skid this shut as much as u want lmao
 local Player = game:GetService'Players'.LocalPlayer;
 local UIS = game:GetService'UserInputService';
 UIS.InputBegan:connect(function(UserInput)
-        if UserInput.UserInputType == Enum.UserInputType.Keyboard and UserInput.KeyCode == Enum.KeyCode.Z then
+        if UserInput.UserInputType == Enum.UserInputType.Keyboard and UserInput.KeyCode == Enum.KeyCode.CapsLock then
             _G.Running = true
                 while wait(0.05) and _G.Running == true do
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame + game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.lookVector * 1
@@ -429,20 +423,17 @@ end
         end
 end)
 UIS.InputEnded:connect(function(UserInput)
-        if UserInput.UserInputType == Enum.UserInputType.Keyboard and UserInput.KeyCode == Enum.KeyCode.Z then
+        if UserInput.UserInputType == Enum.UserInputType.Keyboard and UserInput.KeyCode == Enum.KeyCode.CapsLock then
                 _G.Running = false
         end
 end)
 else
 end
 end)
-function GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
-
-
-MainSection:NewToggle(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({7035,10920,10185,12180,3360,7980,11655,10815,10815,10605,11970}), GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle("Chat Logger", "Toggo", function(state)
     if state then
 		--This script reveals ALL hidden messages in the default chat
---chat GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({4935,12075,11760,12705}) to toggle!
+--chat "/spy" to toggle!
 enabled = true
 --if true will check your messages too
 spyOnMyself = true
@@ -457,26 +448,26 @@ privateProperties = {
 	TextSize = 18;
 }
 --////////////////////////////////////////////////////////////////
-local StarterGui = game:GetService(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({8715,12180,10185,11970,12180,10605,11970,7455,12285,11025}))
-local Players = game:GetService(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({8400,11340,10185,12705,10605,11970,12075}))
+local StarterGui = game:GetService("StarterGui")
+local Players = game:GetService("Players")
 local player = Players.LocalPlayer
-local saymsg = game:GetService(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})):WaitForChild(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({7140,10605,10710,10185,12285,11340,12180,7035,10920,10185,12180,8715,12705,12075,12180,10605,11445,7035,10920,10185,12180,7245,12390,10605,11550,12180,12075})):WaitForChild(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({8715,10185,12705,8085,10605,12075,12075,10185,10815,10605,8610,10605,11865,12285,10605,12075,12180}))
-local getmsg = game:GetService(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})):WaitForChild(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({7140,10605,10710,10185,12285,11340,12180,7035,10920,10185,12180,8715,12705,12075,12180,10605,11445,7035,10920,10185,12180,7245,12390,10605,11550,12180,12075})):WaitForChild(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({8295,11550,8085,10605,12075,12075,10185,10815,10605,7140,11655,11550,10605,7350,11025,11340,12180,10605,11970,11025,11550,10815}))
+local saymsg = game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest")
+local getmsg = game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("OnMessageDoneFiltering")
 local instance = (_G.chatSpyInstance or 0) + 1
 _G.chatSpyInstance = instance
 
 local function onChatted(p,msg)
 	if _G.chatSpyInstance == instance then
-		if p==player and msg:lower():sub(1,4)==GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({4935,12075,11760,12705}) then
+		if p==player and msg:lower():sub(1,4)=="/spy" then
 			enabled = not enabled
 			wait(0.3)
-			privateProperties.Text = GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({12915,8715,8400,9345,3360})..(enabled and GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({7245,8190}) or GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({7140,7665,8715}))..GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({6825,6930,7980,7245,7140,13125})
-			StarterGui:SetCore(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({7035,10920,10185,12180,8085,10185,11235,10605,8715,12705,12075,12180,10605,11445,8085,10605,12075,12075,10185,10815,10605}),privateProperties)
+			privateProperties.Text = "{SPY "..(enabled and "EN" or "DIS").."ABLED}"
+			StarterGui:SetCore("ChatMakeSystemMessage",privateProperties)
 		elseif enabled and (spyOnMyself==true or p~=player) then
-			msg = msg:gsub(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({9555,9660,11550,9660,11970,9765}),GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({})):gsub(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({9660,12180}),GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({3360})):gsub(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({9555,3360,9765,4515}),GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({3360}))
+			msg = msg:gsub("[\n\r]",''):gsub("\t",' '):gsub("[ ]+",' ')
 			local hidden = true
 			local conn = getmsg.OnClientEvent:Connect(function(packet,channel)
-				if packet.SpeakerUserId==p.UserId and packet.Message==msg:sub(#msg-#packet.Message+1) and (channel==GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({6825,11340,11340}) or (channel==GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({8820,10605,10185,11445}) and public==false and Players[packet.FromSpeaker].Team==player.Team)) then
+				if packet.SpeakerUserId==p.UserId and packet.Message==msg:sub(#msg-#packet.Message+1) and (channel=="All" or (channel=="Team" and public==false and Players[packet.FromSpeaker].Team==player.Team)) then
 					hidden = false
 				end
 			end)
@@ -484,10 +475,10 @@ local function onChatted(p,msg)
 			conn:Disconnect()
 			if hidden and enabled then
 				if public then
-					saymsg:FireServer((publicItalics and GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({4935,11445,10605,3360}) or GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({}))..GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({12915,8715,8400,9345,13125,3360,9555}).. p.Name ..GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({9765,6090,3360})..msg,GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({6825,11340,11340}))
+					saymsg:FireServer((publicItalics and "/me " or '').."{SPY} [".. p.Name .."]: "..msg,"All")
 				else
-					privateProperties.Text = GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({12915,8715,8400,9345,13125,3360,9555}).. p.Name ..GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({9765,6090,3360})..msg
-					StarterGui:SetCore(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({7035,10920,10185,12180,8085,10185,11235,10605,8715,12705,12075,12180,10605,11445,8085,10605,12075,12075,10185,10815,10605}),privateProperties)
+					privateProperties.Text = "{SPY} [".. p.Name .."]: "..msg
+					StarterGui:SetCore("ChatMakeSystemMessage",privateProperties)
 				end
 			end
 		end
@@ -500,30 +491,30 @@ end
 Players.PlayerAdded:Connect(function(p)
 	p.Chatted:Connect(function(msg) onChatted(p,msg) end)
 end)
-privateProperties.Text = GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({12915,8715,8400,9345,3360})..(enabled and GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({7245,8190}) or GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({7140,7665,8715}))..GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({6825,6930,7980,7245,7140,13125})
-StarterGui:SetCore(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({7035,10920,10185,12180,8085,10185,11235,10605,8715,12705,12075,12180,10605,11445,8085,10605,12075,12075,10185,10815,10605}),privateProperties)
+privateProperties.Text = "{SPY "..(enabled and "EN" or "DIS").."ABLED}"
+StarterGui:SetCore("ChatMakeSystemMessage",privateProperties)
 local chatFrame = player.PlayerGui.Chat.Frame
 chatFrame.ChatChannelParentFrame.Visible = true
 chatFrame.ChatBarParentFrame.Position = chatFrame.ChatChannelParentFrame.Position+UDim2.new(UDim.new(),chatFrame.ChatChannelParentFrame.Size.Y)
 else
 end
 end)
-MainSection:NewToggle(GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({8190,11655,3360,7140,11655,10500,10815,10605,3360,7035,11655,11340,11340,7140,11655,12495,11550}), GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle("No Dodge CollDown", "Toggo", function(state)
     if state then
 		local X;
 local func;
 local script = game.Players.LocalPlayer.Backpack.Movements
-X = hookmetamethod(game, GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({9975,9975,11550,10185,11445,10605,10395,10185,11340,11340}), function(self, ...)
-   if tostring(self) == GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({12180,10185,11235,10605,12075,12180,10185,11445}) then
+X = hookmetamethod(game, "__namecall", function(self, ...)
+   if tostring(self) == "takestam" then
        return;
    end
    return X(self, ...)
 end)
 for i,v in pairs(getreg()) do
-   if type(v) == GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({10710,12285,11550,10395,12180,11025,11655,11550}) and getfenv(v).script then
+   if type(v) == 'function' and getfenv(v).script then
        if getfenv(v).script == script then
            local upvalues = getupvalues(v)
-           if tostring(upvalues[12]) == GzMPMivCjPMCjdqQNTfldVPCSaABlOxogHkEmQLYwcXHJxLPHr({8610,10185,10815,10500,11655,11340,11340,12075}) then
+           if tostring(upvalues[12]) == "Ragdolls" then
                func = v
            end
        end

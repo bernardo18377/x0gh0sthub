@@ -528,3 +528,59 @@ end)
 else
 end
 end)
+MainSection:NewToggle("Leg Chest Esp", "Press N Toggo", function(state)
+    if state then
+		--thunder hub on top
+local EspFolder = Instance.new("Folder",game.CoreGui)
+EspFolder.Name = "ChestEspFolder"
+modelsWithEsp = {} 
+while wait() do
+	wait()
+	for i,v in pairs(game:GetService("Workspace").Effects:GetChildren()) do
+		if v.ClassName == "Model" and not modelsWithEsp[v] then 
+			local Chest = v:FindFirstChildOfClass("MeshPart")
+			if Chest and Chest.MeshId == "rbxassetid://10798559852" then
+				local esp = Instance.new("BoxHandleAdornment",EspFolder)
+				esp.Adornee = v
+				esp.ZIndex = 0
+				esp.Size = Vector3.new(4, 5, 1)
+				esp.Transparency = 0.65
+				esp.Color3 = Color3.fromRGB(255,48,48)
+				esp.AlwaysOnTop = true
+				esp.Name = "EspBox"
+				modelsWithEsp[v] = true 
+			end
+		end
+	end
+end
+else
+end
+end)
+MainSection:NewToggle("Mythical Chest Esp", "Press N Toggo", function(state)
+    if state then
+		--thunder on top
+ local EspFolder = Instance.new("Folder",game.CoreGui)
+ EspFolder.Name = "ChestEspFolder"
+ modelsWithEsp = {} 
+ while wait() do
+	 wait()
+	 for i,v in pairs(game:GetService("Workspace").Effects:GetChildren()) do
+		 if v.ClassName == "Model" and not modelsWithEsp[v] then
+			 local Chest = v:FindFirstChildOfClass("MeshPart")
+			 if Chest and Chest.MeshId == "rbxassetid://10811929054" then
+				 local esp = Instance.new("BoxHandleAdornment",EspFolder)
+				 esp.Adornee = v
+				 esp.ZIndex = 0
+				 esp.Size = Vector3.new(4, 5, 1)
+				 esp.Transparency = 0.65
+				 esp.Color3 = Color3.fromRGB(102,0,255)
+				 esp.AlwaysOnTop = true
+				 esp.Name = "EspBox"
+				 modelsWithEsp[v] = true 
+			 end
+		 end
+	 end
+ end
+else
+end
+end)

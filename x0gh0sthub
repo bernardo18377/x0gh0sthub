@@ -1,25 +1,19 @@
-function ReHzwoOvrbbZehxZTGYydEDODVvRkVjP(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
+function swqfVZbdqMOJqMODggQXFrsnzCeCob(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
 
 
-    game.StarterGui:SetCore(ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({8715,10605,11550,10500,8190,11655,12180,11025,10710,11025,10395,10185,12180,11025,11655,11550}), {
-      Icon = ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5250,5040,5775,5985,5880,5460,5985});
-          Title = ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({12390,11655,11340,10395,10185,11550,11655,7560,12285,10290}), 
-      Text = ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({9135,10605,11340,10395,11655,11445,10605,3360,12390,11655,11340,10395,10185,11550,11655,7560,12285,10290,3465})
-  })
-
-local Library = loadstring(game:HttpGet(ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({10920,12180,12180,11760,12075,6090,4935,4935,11970,10185,12495,4830,10815,11025,12180,10920,12285,10290,12285,12075,10605,11970,10395,11655,11550,12180,10605,11550,12180,4830,10395,11655,11445,4935,12600,7560,10605,11760,12180,10395,4935,7875,10185,12390,11655,4725,8925,7665,4725,7980,11025,10290,11970,10185,11970,12705,4935,11445,10185,11025,11550,4935,12075,11655,12285,11970,10395,10605,4830,11340,12285,10185})))()
-local Window = Library.CreateLib(ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({9030,11655,11340,10395,10185,11550,11655,7560,12285,10290}), ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({6930,11340,11655,11655,10500,8820,10920,10605,11445,10605}))
+local Library = loadstring(game:HttpGet(swqfVZbdqMOJqMODggQXFrsnzCeCob({10920,12180,12180,11760,12075,6090,4935,4935,11970,10185,12495,4830,10815,11025,12180,10920,12285,10290,12285,12075,10605,11970,10395,11655,11550,12180,10605,11550,12180,4830,10395,11655,11445,4935,12600,7560,10605,11760,12180,10395,4935,7875,10185,12390,11655,4725,8925,7665,4725,7980,11025,10290,11970,10185,11970,12705,4935,11445,10185,11025,11550,4935,12075,11655,12285,11970,10395,10605,4830,11340,12285,10185})))()
+local Window = Library.CreateLib(swqfVZbdqMOJqMODggQXFrsnzCeCob({9240,7560,12285,10290}), swqfVZbdqMOJqMODggQXFrsnzCeCob({6930,11340,11655,11655,10500,8820,10920,10605,11445,10605}))
 
 -- MAIN
-local Main = Window:NewTab(ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({6930,10185,12180,12180,11340,10605,3360,11970,11655,12705,10185,11340,10605}))
-local MainSection = Main:NewSection(ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({8085,10605,12075,11445,10185,3360,10395,11655,11025,12075,10185,3360,11865,12285,10605,3360,11655,3360,10500,10605,3360,10290,10185,11025,12600,11655}))
+local Main = Window:NewTab(swqfVZbdqMOJqMODggQXFrsnzCeCob({6930,10185,12180,12180,11340,10605,3360,11970,11655,12705,10185,11340,10605}))
+local MainSection = Main:NewSection(swqfVZbdqMOJqMODggQXFrsnzCeCob({8085,10605,12075,11445,10185,3360,10395,11655,11025,12075,10185,3360,11865,12285,10605,3360,11655,3360,10500,10605,3360,10290,10185,11025,12600,11655}))
 
 
-MainSection:NewButton(ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({8190,10185,11655,3360,10710,12285,11550,10395,11025,11655,11550,10185}), ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({6930,12705,3360,6930,10605,11970,11550,10185,11970,10500,11655,3360,11235,11235,11235,11235,11235,11235,11235,11235,11235}), function()
-    loadstring(game:HttpGet(ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({10920,12180,12180,11760,12075,6090,4935,4935,11760,10185,12075,12180,10605,10290,11025,11550,4830,10395,11655,11445,4935,11970,10185,12495,4935,5775,12495,7140,10395,8400,12180,7980,11235})))
+MainSection:NewButton(swqfVZbdqMOJqMODggQXFrsnzCeCob({8190,10185,11655,3360,10710,12285,11550,10395,11025,11655,11550,10185}), swqfVZbdqMOJqMODggQXFrsnzCeCob({6930,12705,3360,6930,10605,11970,11550,10185,11970,10500,11655,3360,11235,11235,11235,11235,11235,11235,11235,11235,11235}), function()
+    loadstring(game:HttpGet(swqfVZbdqMOJqMODggQXFrsnzCeCob({10920,12180,12180,11760,12075,6090,4935,4935,11760,10185,12075,12180,10605,10290,11025,11550,4830,10395,11655,11445,4935,11970,10185,12495,4935,5775,12495,7140,10395,8400,12180,7980,11235})))
 end)
 
-MainSection:NewToggle(ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({7560,11025,12180,10290,11655,12600}), ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({8400,11970,10605,12075,12075,3360,8190,3360,8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle(swqfVZbdqMOJqMODggQXFrsnzCeCob({7560,11025,12180,10290,11655,12600}), swqfVZbdqMOJqMODggQXFrsnzCeCob({8400,11970,10605,12075,12075,3360,8190,3360,8820,11655,10815,10815,11655}), function(state)
     if state then
 -- Variables
 local player = game.Players.LocalPlayer
@@ -27,8 +21,8 @@ local mouse = player:GetMouse()
 
 -- Settings
 
-bind = ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({}) 
-bind2 = ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({11550})
+bind = swqfVZbdqMOJqMODggQXFrsnzCeCob({}) 
+bind2 = swqfVZbdqMOJqMODggQXFrsnzCeCob({11550})
 
 -- Script
 
@@ -45,13 +39,13 @@ _G.Disabled = true
 
 
 if _G.Disabled then
-for i,v in next, game:GetService(ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({8400,11340,10185,12705,10605,11970,12075})):GetPlayers() do
-if v.Name ~= game:GetService(ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({8400,11340,10185,12705,10605,11970,12075})).LocalPlayer.Name then
+for i,v in next, game:GetService(swqfVZbdqMOJqMODggQXFrsnzCeCob({8400,11340,10185,12705,10605,11970,12075})):GetPlayers() do
+if v.Name ~= game:GetService(swqfVZbdqMOJqMODggQXFrsnzCeCob({8400,11340,10185,12705,10605,11970,12075})).LocalPlayer.Name then
 pcall(function()
 v.Character.HumanoidRootPart.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
 v.Character.HumanoidRootPart.Transparency = 0.5
-v.Character.HumanoidRootPart.BrickColor = BrickColor.new(ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({8610,10605,10185,11340,11340,12705,3360,6930,11340,12285,10605}))
-v.Character.HumanoidRootPart.Material = ReHzwoOvrbbZehxZTGYydEDODVvRkVjP({6930,11340,12285,10605})
+v.Character.HumanoidRootPart.BrickColor = BrickColor.new(swqfVZbdqMOJqMODggQXFrsnzCeCob({8610,10605,10185,11340,11340,12705,3360,6930,11340,12285,10605}))
+v.Character.HumanoidRootPart.Material = swqfVZbdqMOJqMODggQXFrsnzCeCob({6930,11340,12285,10605})
 v.Character.HumanoidRootPart.CanCollide = false
 end)
 end
@@ -64,7 +58,7 @@ end)
     end
 end)
 
-MainSection:NewToggle("Inf Jump", "Toggo", function(state)
+MainSection:NewToggle(swqfVZbdqMOJqMODggQXFrsnzCeCob({7665,11550,10710,3360,7770,12285,11445,11760}), swqfVZbdqMOJqMODggQXFrsnzCeCob({8820,11655,10815,10815,11655}), function(state)
     if state then
 -- Gui to Lua
 -- Version: 3.2
@@ -166,18 +160,18 @@ counter = counter + 0.01
 end
 end
 coroutine.wrap(TKDWQ_fake_script)()
-function RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
-
-
-MainSection:NewToggle(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8610,10605,11445,11655,12390,10605,3360,8190,10185,11445,10605,3360,8820,10185,10815}), RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8820,11655,10815,10815,11655}), function(state)
+else
+end
+end)
+MainSection:NewToggle(swqfVZbdqMOJqMODggQXFrsnzCeCob({8610,10605,11445,11655,12390,10605,3360,8190,10185,11445,10605,3360,8820,10185,10815}), swqfVZbdqMOJqMODggQXFrsnzCeCob({8820,11655,10815,10815,11655}), function(state)
     if state then
-        local Players = game:FindService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))
+        local Players = game:FindService(swqfVZbdqMOJqMODggQXFrsnzCeCob({8400,11340,10185,12705,10605,11970,12075}))
 
-require(game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7035,10920,10185,12180})):WaitForChild(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7035,11340,11025,10605,11550,12180,7035,10920,10185,12180,8085,11655,10500,12285,11340,10605,12075})).ChatSettings).PlayerDisplayNamesEnabled = false
+require(game:GetService(swqfVZbdqMOJqMODggQXFrsnzCeCob({7035,10920,10185,12180})):WaitForChild(swqfVZbdqMOJqMODggQXFrsnzCeCob({7035,11340,11025,10605,11550,12180,7035,10920,10185,12180,8085,11655,10500,12285,11340,10605,12075})).ChatSettings).PlayerDisplayNamesEnabled = false
 
 local function rename(character,name)
-    repeat task.wait() until character:FindFirstChildWhichIsA(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7560,12285,11445,10185,11550,11655,11025,10500}))
-    character:FindFirstChildWhichIsA(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7560,12285,11445,10185,11550,11655,11025,10500})).DisplayName = name
+    repeat task.wait() until character:FindFirstChildWhichIsA(swqfVZbdqMOJqMODggQXFrsnzCeCob({7560,12285,11445,10185,11550,11655,11025,10500}))
+    character:FindFirstChildWhichIsA(swqfVZbdqMOJqMODggQXFrsnzCeCob({7560,12285,11445,10185,11550,11655,11025,10500})).DisplayName = name
 end
 
 for i,v in next, Players:GetPlayers() do
@@ -199,10 +193,10 @@ end)
 else
 end
 end)
-    MainSection:NewToggle(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7350,10185,11235,10605,7980,10185,10815,4935,7245,12810,7350,5460,11970,11445}), RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({6825,11760,10605,11970,12180,10185,3360,7035,11655,11550,12180,11970,11655,11340,3360,7140,11025,11970,10605,11025,12180,11655,3360,11760,10185,11970,10185,3360,6825,12180,11025,12390,10185,11970,3360,10605,3360,7140,10605,12075,10185,12180,11025,12390,10185,11970}), function(state)
+    MainSection:NewToggle(swqfVZbdqMOJqMODggQXFrsnzCeCob({7350,10185,11235,10605,7980,10185,10815,4935,7245,12810,7350,5460,11970,11445}), swqfVZbdqMOJqMODggQXFrsnzCeCob({6825,11760,10605,11970,12180,10185,3360,7035,11655,11550,12180,11970,11655,11340,3360,7140,11025,11970,10605,11025,12180,11655,3360,11760,10185,11970,10185,3360,6825,12180,11025,12390,10185,11970,3360,10605,3360,7140,10605,12075,10185,12180,11025,12390,10185,11970}), function(state)
         if state then
             setting = settings().Network
-local Effect = Instance.new(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7035,11655,11340,11655,11970,7035,11655,11970,11970,10605,10395,12180,11025,11655,11550,7245,10710,10710,10605,10395,12180}))
+local Effect = Instance.new(swqfVZbdqMOJqMODggQXFrsnzCeCob({7035,11655,11340,11655,11970,7035,11655,11970,11970,10605,10395,12180,11025,11655,11550,7245,10710,10710,10605,10395,12180}))
 Effect.Parent = game.Lighting
 Effect.Saturation = -1
 Effect.Brightness = 0
@@ -225,202 +219,127 @@ function onKeyPress(inputObject, gameProcessedEvent)
 	end
 end
 
-game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8925,12075,10605,11970,7665,11550,11760,12285,12180,8715,10605,11970,12390,11025,10395,10605})).InputBegan:connect(onKeyPress)
+game:GetService(swqfVZbdqMOJqMODggQXFrsnzCeCob({8925,12075,10605,11970,7665,11550,11760,12285,12180,8715,10605,11970,12390,11025,10395,10605})).InputBegan:connect(onKeyPress)
 else
 end
 end)
 
-MainSection:NewToggle(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7245,12075,11760}), RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle(swqfVZbdqMOJqMODggQXFrsnzCeCob({7245,12075,11760}), swqfVZbdqMOJqMODggQXFrsnzCeCob({8820,11655,10815,10815,11655}), function(state)
     if state then
-local lplr = game.Players.LocalPlayer
-local camera = game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({9135,11655,11970,11235,12075,11760,10185,10395,10605})).CurrentCamera
-local CurrentCamera = workspace.CurrentCamera
-local worldToViewportPoint = CurrentCamera.worldToViewportPoint
+		--// Universal Box ESP (Works on Arsenal and other games)
 
-local HeadOff = Vector3.new(0, 0.5, 0)
-local LegOff = Vector3.new(0,3,0)
-
-for i,v in pairs(game.Players:GetChildren()) do
-    local BoxOutline = Drawing.new(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8715,11865,12285,10185,11970,10605}))
-    BoxOutline.Visible = false
-    BoxOutline.Color = Color3.new(121,0,0)
-    BoxOutline.Thickness = 3
-    BoxOutline.Transparency = 1
-    BoxOutline.Filled = false
-
-    local Box = Drawing.new(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8715,11865,12285,10185,11970,10605}))
-    Box.Visible = false
-    Box.Color = Color3.new(1,1,1)
-    Box.Thickness = 1
-    Box.Transparency = 1
-    Box.Filled = false
-
-    local HealthBarOutline = Drawing.new(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8715,11865,12285,10185,11970,10605}))
-    HealthBarOutline.Thickness = 3
-    HealthBarOutline.Filled = false
-    HealthBarOutline.Color = Color3.new(121,0,0)
-    HealthBarOutline.Transparency = 1
-    HealthBarOutline.Visible = false
-
-    local HealthBar = Drawing.new(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8715,11865,12285,10185,11970,10605}))
-    HealthBar.Thickness = 1
-    HealthBar.Filled = false
-    HealthBar.Transparency = 1
-    HealthBar.Visible = false
-
-    function boxesp()
-        game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8610,12285,11550,8715,10605,11970,12390,11025,10395,10605})).RenderStepped:Connect(function()
-            if v.Character ~= nil and v.Character:FindFirstChild(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7560,12285,11445,10185,11550,11655,11025,10500})) ~= nil and v.Character:FindFirstChild(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7560,12285,11445,10185,11550,11655,11025,10500,8610,11655,11655,12180,8400,10185,11970,12180})) ~= nil and v ~= lplr and v.Character.Humanoid.Health > 0 then
-                local Vector, onScreen = camera:worldToViewportPoint(v.Character.HumanoidRootPart.Position)
-
-                local RootPart = v.Character.HumanoidRootPart
-                local Head = v.Character.Head
-                local RootPosition, RootVis = worldToViewportPoint(CurrentCamera, RootPart.Position)
-                local HeadPosition = worldToViewportPoint(CurrentCamera, Head.Position + HeadOff)
-                local LegPosition = worldToViewportPoint(CurrentCamera, RootPart.Position - LegOff)
-
-                if onScreen then
-                    BoxOutline.Size = Vector2.new(1000 / RootPosition.Z, HeadPosition.Y - LegPosition.Y)
-                    BoxOutline.Position = Vector2.new(RootPosition.X - BoxOutline.Size.X / 2, RootPosition.Y - BoxOutline.Size.Y / 2)
-                    BoxOutline.Visible = true
-
-                    Box.Size = Vector2.new(1000 / RootPosition.Z, HeadPosition.Y - LegPosition.Y)
-                    Box.Position = Vector2.new(RootPosition.X - Box.Size.X / 2, RootPosition.Y - Box.Size.Y / 2)
-                    Box.Visible = true
-
-                    HealthBarOutline.Size = Vector2.new(2, HeadPosition.Y - LegPosition.Y)
-                    HealthBarOutline.Position = BoxOutline.Position - Vector2.new(6,0)
-                    HealthBarOutline.Visible = true
-
-                    HealthBar.Size = Vector2.new(2, (HeadPosition.Y - LegPosition.Y) / (game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))[v.Character.Name].NRPBS[RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8085,10185,12600,7560,10605,10185,11340,12180,10920})].Value / math.clamp(game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))[v.Character.Name].NRPBS[RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7560,10605,10185,11340,12180,10920})].Value, 0, game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))[v.Character.Name].NRPBS:WaitForChild(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8085,10185,12600,7560,10605,10185,11340,12180,10920})).Value)))
-                    HealthBar.Position = Vector2.new(Box.Position.X - 6, Box.Position.Y + (1 / HealthBar.Size.Y))
-                    HealthBar.Color = Color3.fromRGB(255 - 255 / (game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))[v.Character.Name].NRPBS[RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8085,10185,12600,7560,10605,10185,11340,12180,10920})].Value / game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))[v.Character.Name].NRPBS[RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7560,10605,10185,11340,12180,10920})].Value), 255 / (game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))[v.Character.Name].NRPBS[RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8085,10185,12600,7560,10605,10185,11340,12180,10920})].Value / game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))[v.Character.Name].NRPBS[RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7560,10605,10185,11340,12180,10920})].Value), 0)
-                    HealthBar.Visible = true
-
-                    if v.TeamColor == lplr.TeamColor then
-                        --- Our Team
-                        BoxOutline.Visible = false
-                        Box.Visible = false
-                        HealthBarOutline.Visible = false
-                        HealthBar.Visible = false
-                    else
-                        ---Enemy Team
-                        BoxOutline.Visible = true
-                        Box.Visible = true
-                        HealthBarOutline.Visible = true
-                        HealthBar.Visible = true
-                    end
-
-                else
-                    BoxOutline.Visible = false
-                    Box.Visible = false
-                    HealthBarOutline.Visible = false
-                    HealthBar.Visible = false
-                end
-            else
-                BoxOutline.Visible = false
-                Box.Visible = false
-                HealthBarOutline.Visible = false
-                HealthBar.Visible = false
-            end
-        end)
-    end
-    coroutine.wrap(boxesp)()
+-- settings
+local settings = {
+	defaultcolor = Color3.fromRGB(225,46,100),
+	teamcheck = false,
+	teamcolor = true
+ };
+ 
+ -- services
+ local runService = game:GetService(swqfVZbdqMOJqMODggQXFrsnzCeCob({8610,12285,11550,8715,10605,11970,12390,11025,10395,10605}));
+ local players = game:GetService(swqfVZbdqMOJqMODggQXFrsnzCeCob({8400,11340,10185,12705,10605,11970,12075}));
+ 
+ -- variables
+ local localPlayer = players.LocalPlayer;
+ local camera = workspace.CurrentCamera;
+ 
+ -- functions
+ local newVector2, newColor3, newDrawing = Vector2.new, Color3.new, Drawing.new;
+ local tan, rad = math.tan, math.rad;
+ local round = function(...) local a = {}; for i,v in next, table.pack(...) do a[i] = math.round(v); end return unpack(a); end;
+ local wtvp = function(...) local a, b = camera.WorldToViewportPoint(camera, ...) return newVector2(a.X, a.Y), b, a.Z end;
+ 
+ local espCache = {};
+ local function createEsp(player)
+	local drawings = {};
+	
+	drawings.box = newDrawing(swqfVZbdqMOJqMODggQXFrsnzCeCob({8715,11865,12285,10185,11970,10605}));
+	drawings.box.Thickness = 1;
+	drawings.box.Filled = false;
+	drawings.box.Color = settings.defaultcolor;
+	drawings.box.Visible = false;
+	drawings.box.ZIndex = 2;
+ 
+	drawings.boxoutline = newDrawing(swqfVZbdqMOJqMODggQXFrsnzCeCob({8715,11865,12285,10185,11970,10605}));
+	drawings.boxoutline.Thickness = 2;
+	drawings.boxoutline.Filled = false;
+	drawings.boxoutline.Color = newColor3();
+	drawings.boxoutline.Visible = false;
+	drawings.boxoutline.ZIndex = 1;
+ 
+	espCache[player] = drawings;
+ end
+ 
+ local function removeEsp(player)
+	if rawget(espCache, player) then
+		for _, drawing in next, espCache[player] do
+			drawing:Remove();
+		end
+		espCache[player] = nil;
+	end
+ end
+ 
+ local function updateEsp(player, esp)
+	local character = player and player.Character;
+	if character then
+		local cframe = character:GetModelCFrame();
+		local position, visible, depth = wtvp(cframe.Position);
+		esp.box.Visible = visible;
+		esp.boxoutline.Visible = visible;
+ 
+		if cframe and visible then
+			local scaleFactor = 1 / (depth * tan(rad(camera.FieldOfView / 2)) * 2) * 1000;
+			local width, height = round(4 * scaleFactor, 5 * scaleFactor);
+			local x, y = round(position.X, position.Y);
+ 
+			esp.box.Size = newVector2(width, height);
+			esp.box.Position = newVector2(round(x - width / 2, y - height / 2));
+			esp.box.Color = settings.teamcolor and player.TeamColor.Color or settings.defaultcolor;
+ 
+			esp.boxoutline.Size = esp.box.Size;
+			esp.boxoutline.Position = esp.box.Position;
+		end
+	else
+		esp.box.Visible = false;
+		esp.boxoutline.Visible = false;
+	end
+ end
+ 
+ -- main
+ for _, player in next, players:GetPlayers() do
+	if player ~= localPlayer then
+		createEsp(player);
+	end
+ end
+ 
+ players.PlayerAdded:Connect(function(player)
+	createEsp(player);
+ end);
+ 
+ players.PlayerRemoving:Connect(function(player)
+	removeEsp(player);
+ end)
+ 
+ runService:BindToRenderStep(swqfVZbdqMOJqMODggQXFrsnzCeCob({10605,12075,11760}), Enum.RenderPriority.Camera.Value, function()
+	for player, drawings in next, espCache do
+		if settings.teamcheck and player.Team == localPlayer.Team then
+			continue;
+		end
+ 
+		if drawings and player ~= localPlayer then
+			updateEsp(player, drawings);
+		end
+	end
+ end)
+else
 end
-
-game.Players.PlayerAdded:Connect(function(v)
-    local BoxOutline = Drawing.new(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8715,11865,12285,10185,11970,10605}))
-    BoxOutline.Visible = false
-    BoxOutline.Color = Color3.new(123,0,0)
-    BoxOutline.Thickness = 3
-    BoxOutline.Transparency = 1
-    BoxOutline.Filled = false
-
-    local Box = Drawing.new(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8715,11865,12285,10185,11970,10605}))
-    Box.Visible = false
-    Box.Color = Color3.new(1,1,1)
-    Box.Thickness = 1
-    Box.Transparency = 1
-    Box.Filled = false
-
-    local HealthBarOutline = Drawing.new(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8715,11865,12285,10185,11970,10605}))
-    HealthBarOutline.Thickness = 3
-    HealthBarOutline.Filled = false
-    HealthBarOutline.Color = Color3.new(123,0,0)
-    HealthBarOutline.Transparency = 1
-    HealthBarOutline.Visible = false
-
-    local HealthBar = Drawing.new(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8715,11865,12285,10185,11970,10605}))
-    HealthBar.Thickness = 1
-    HealthBar.Filled = false
-    HealthBar.Transparency = 1
-    HealthBar.Visible = false
-
-    function boxesp()
-        game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8610,12285,11550,8715,10605,11970,12390,11025,10395,10605})).RenderStepped:Connect(function()
-            if v.Character ~= nil and v.Character:FindFirstChild(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7560,12285,11445,10185,11550,11655,11025,10500})) ~= nil and v.Character:FindFirstChild(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7560,12285,11445,10185,11550,11655,11025,10500,8610,11655,11655,12180,8400,10185,11970,12180})) ~= nil and v ~= lplr and v.Character.Humanoid.Health > 0 then
-                local Vector, onScreen = camera:worldToViewportPoint(v.Character.HumanoidRootPart.Position)
-
-                local RootPart = v.Character.HumanoidRootPart
-                local Head = v.Character.Head
-                local RootPosition, RootVis = worldToViewportPoint(CurrentCamera, RootPart.Position)
-                local HeadPosition = worldToViewportPoint(CurrentCamera, Head.Position + HeadOff)
-                local LegPosition = worldToViewportPoint(CurrentCamera, RootPart.Position - LegOff)
-
-                if onScreen then
-                    BoxOutline.Size = Vector2.new(1000 / RootPosition.Z, HeadPosition.Y - LegPosition.Y)
-                    BoxOutline.Position = Vector2.new(RootPosition.X - BoxOutline.Size.X / 2, RootPosition.Y - BoxOutline.Size.Y / 2)
-                    BoxOutline.Visible = true
-
-                    Box.Size = Vector2.new(1000 / RootPosition.Z, HeadPosition.Y - LegPosition.Y)
-                    Box.Position = Vector2.new(RootPosition.X - Box.Size.X / 2, RootPosition.Y - Box.Size.Y / 2)
-                    Box.Visible = true
-
-                    HealthBarOutline.Size = Vector2.new(2, HeadPosition.Y - LegPosition.Y)
-                    HealthBarOutline.Position = BoxOutline.Position - Vector2.new(6,0)
-                    HealthBarOutline.Visible = true
-
-                    HealthBar.Size = Vector2.new(2, (HeadPosition.Y - LegPosition.Y) / (game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))[v.Character.Name].NRPBS[RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8085,10185,12600,7560,10605,10185,11340,12180,10920})].Value / math.clamp(game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))[v.Character.Name].NRPBS[RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7560,10605,10185,11340,12180,10920})].Value, 0, game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))[v.Character.Name].NRPBS:WaitForChild(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8085,10185,12600,7560,10605,10185,11340,12180,10920})).Value)))
-                    HealthBar.Position = Vector2.new(Box.Position.X - 6, Box.Position.Y + (1/HealthBar.Size.Y))
-		    HealthBar.Color = Color3.fromRGB(255 - 255 / (game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))[v.Character.Name].NRPBS[RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8085,10185,12600,7560,10605,10185,11340,12180,10920})].Value / game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))[v.Character.Name].NRPBS[RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7560,10605,10185,11340,12180,10920})].Value), 255 / (game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))[v.Character.Name].NRPBS[RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8085,10185,12600,7560,10605,10185,11340,12180,10920})].Value / game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))[v.Character.Name].NRPBS[RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7560,10605,10185,11340,12180,10920})].Value), 0)                    
-		    HealthBar.Visible = true
-
-                    if v.TeamColor == lplr.TeamColor then
-                        --- Our Team
-                        BoxOutline.Visible = false
-                        Box.Visible = false
-                        HealthBarOutline.Visible = false
-                        HealthBar.Visible = false
-                    else
-                        ---Enemy Team
-                        BoxOutline.Visible = true
-                        Box.Visible = true
-                        HealthBarOutline.Visible = true
-                        HealthBar.Visible = true
-                    end
-
-                else
-                    BoxOutline.Visible = false
-                    Box.Visible = false
-                    HealthBarOutline.Visible = false
-                    HealthBar.Visible = false
-                end
-            else
-                BoxOutline.Visible = false
-                Box.Visible = false
-                HealthBarOutline.Visible = false
-                HealthBar.Visible = false
-            end
-        end)
-    end
-    coroutine.wrap(boxesp)()
 end)
 
-local speed = Window:NewTab(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8715,11760,10605,10605,10500}))
-local rs = speed:NewSection(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7035,7350,11970,10185,11445,10605,3360,8715,11760,10605,10605,10500}))
-rs:NewButton(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7035,7350,11970,10185,11445,10605,3360,7455,12285,11550,12075,3360,7350,7665,9240}), RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({6930,12285,12180,12180,11655,11550,7665,11550,10710,11655}), function()
+local speed = Window:NewTab(swqfVZbdqMOJqMODggQXFrsnzCeCob({8715,11760,10605,10605,10500}))
+local rs = speed:NewSection(swqfVZbdqMOJqMODggQXFrsnzCeCob({7035,7350,11970,10185,11445,10605,3360,8715,11760,10605,10605,10500}))
+rs:NewButton(swqfVZbdqMOJqMODggQXFrsnzCeCob({7035,7350,11970,10185,11445,10605,3360,7455,12285,11550,12075,3360,7350,7665,9240}), swqfVZbdqMOJqMODggQXFrsnzCeCob({6930,12285,12180,12180,11655,11550,7665,11550,10710,11655}), function()
     for _, v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
-        if v:IsA(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8715,10395,11970,11025,11760,12180})) and v.Name ~= RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7560,10605,10185,11340,12180,10920}) and v.Name ~= RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8715,11655,12285,11550,10500}) and v:FindFirstChild(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7980,11655,10395,10185,11340,8715,10395,11970,11025,11760,12180})) then
+        if v:IsA(swqfVZbdqMOJqMODggQXFrsnzCeCob({8715,10395,11970,11025,11760,12180})) and v.Name ~= swqfVZbdqMOJqMODggQXFrsnzCeCob({7560,10605,10185,11340,12180,10920}) and v.Name ~= swqfVZbdqMOJqMODggQXFrsnzCeCob({8715,11655,12285,11550,10500}) and v:FindFirstChild(swqfVZbdqMOJqMODggQXFrsnzCeCob({7980,11655,10395,10185,11340,8715,10395,11970,11025,11760,12180})) then
             v:Destroy()
         end
     end
@@ -429,26 +348,26 @@ rs:NewButton(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFb
             wait()
         until game.Players.LocalPlayer.Character
         char.ChildAdded:Connect(function(child)
-            if child:IsA(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8715,10395,11970,11025,11760,12180})) then 
+            if child:IsA(swqfVZbdqMOJqMODggQXFrsnzCeCob({8715,10395,11970,11025,11760,12180})) then 
                 wait(0.1)
-                if child:FindFirstChild(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7980,11655,10395,10185,11340,8715,10395,11970,11025,11760,12180})) then
+                if child:FindFirstChild(swqfVZbdqMOJqMODggQXFrsnzCeCob({7980,11655,10395,10185,11340,8715,10395,11970,11025,11760,12180})) then
                     child.LocalScript:FireServer()
                 end
             end
         end)
     end)
 end)
-rs:NewButton(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7035,7350,11970,10185,11445,10605,3360,8715,11760,10605,10605,10500,3360,4200,9450,4305}), RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({6930,12285,12180,12180,11655,11550,7665,11550,10710,11655}), function()
+rs:NewButton(swqfVZbdqMOJqMODggQXFrsnzCeCob({7035,7350,11970,10185,11445,10605,3360,8715,11760,10605,10605,10500,3360,4200,9450,4305}), swqfVZbdqMOJqMODggQXFrsnzCeCob({6930,12285,12180,12180,11655,11550,7665,11550,10710,11655}), function()
     	repeat
 		wait()
 	until game:IsLoaded()
-	local L_134_ = game:service(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8400,11340,10185,12705,10605,11970,12075}))
+	local L_134_ = game:service(swqfVZbdqMOJqMODggQXFrsnzCeCob({8400,11340,10185,12705,10605,11970,12075}))
 	local L_135_ = L_134_.LocalPlayer
 	repeat
 		wait()
 	until L_135_.Character
-	local L_136_ = game:service(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8925,12075,10605,11970,7665,11550,11760,12285,12180,8715,10605,11970,12390,11025,10395,10605}))
-	local L_137_ = game:service(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8610,12285,11550,8715,10605,11970,12390,11025,10395,10605}))
+	local L_136_ = game:service(swqfVZbdqMOJqMODggQXFrsnzCeCob({8925,12075,10605,11970,7665,11550,11760,12285,12180,8715,10605,11970,12390,11025,10395,10605}))
+	local L_137_ = game:service(swqfVZbdqMOJqMODggQXFrsnzCeCob({8610,12285,11550,8715,10605,11970,12390,11025,10395,10605}))
 	getgenv().Multiplier = 0.5
 	local L_138_ = true
 	local L_139_
@@ -478,20 +397,20 @@ rs:NewButton(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFb
 			if L_138_ == true then
 				repeat
 					game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame + game.Players.LocalPlayer.Character.Humanoid.MoveDirection * Multiplier
-					game:GetService(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8610,12285,11550,8715,10605,11970,12390,11025,10395,10605})).Stepped:wait()
+					game:GetService(swqfVZbdqMOJqMODggQXFrsnzCeCob({8610,12285,11550,8715,10605,11970,12390,11025,10395,10605})).Stepped:wait()
 				until L_138_ == false
 			end
 		end
 	end)
 end)
-rs:NewSlider(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7035,7350,11970,10185,11445,10605,3360,8715,11760,10605,10605,10500,3360}), RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8715,11340,11025,10500,10605,11970,7665,11550,10710,11655}), 5, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+rs:NewSlider(swqfVZbdqMOJqMODggQXFrsnzCeCob({7035,7350,11970,10185,11445,10605,3360,8715,11760,10605,10605,10500,3360}), swqfVZbdqMOJqMODggQXFrsnzCeCob({8715,11340,11025,10500,10605,11970,7665,11550,10710,11655}), 5, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
     getgenv().Multiplier = s
 end)
-rs:NewKeybind(RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({8820,11655,10815,10815,11340,10605,3360,8925,7665}), RgXDWmumZHWdnTIktuOoylvpuLiMshaezafwYtDpuYEDyxhixCoXMxZMTBgwBrXbaFbJeUm({7875,10605,12705,10290,11025,11550,10500,7665,11550,10710,11655}), Enum.KeyCode.RightControl, function()
+rs:NewKeybind(swqfVZbdqMOJqMODggQXFrsnzCeCob({8820,11655,10815,10815,11340,10605,3360,8925,7665}), swqfVZbdqMOJqMODggQXFrsnzCeCob({7875,10605,12705,10290,11025,11550,10500,7665,11550,10710,11655}), Enum.KeyCode.RightControl, function()
 	Library.ToggleUI()
 end)
 
-MainSection:NewToggle("Speed Ant Ban (Caps Lock) ", "Press CapsLock", function(state)
+MainSection:NewToggle(swqfVZbdqMOJqMODggQXFrsnzCeCob({8715,11760,10605,10605,10500,3360,6825,11550,12180,3360,6930,10185,11550,3360,4200,7035,10185,11760,12075,3360,7980,11655,10395,11235,4305,3360}), swqfVZbdqMOJqMODggQXFrsnzCeCob({8400,11970,10605,12075,12075,3360,7035,10185,11760,12075,7980,11655,10395,11235}), function(state)
     if state then
 --Skid this shut as much as u want lmao
 local Player = game:GetService'Players'.LocalPlayer;
@@ -514,13 +433,10 @@ end)
 else
 end
 end)
-function KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
-
-
-MainSection:NewToggle(KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({7035,10920,10185,12180,3360,7980,11655,10815,10815,10605,11970}), KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle(swqfVZbdqMOJqMODggQXFrsnzCeCob({7035,10920,10185,12180,3360,7980,11655,10815,10815,10605,11970}), swqfVZbdqMOJqMODggQXFrsnzCeCob({8820,11655,10815,10815,11655}), function(state)
     if state then
 		--This script reveals ALL hidden messages in the default chat
---chat KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({4935,12075,11760,12705}) to toggle!
+--chat swqfVZbdqMOJqMODggQXFrsnzCeCob({4935,12075,11760,12705}) to toggle!
 enabled = true
 --if true will check your messages too
 spyOnMyself = true
@@ -535,26 +451,26 @@ privateProperties = {
 	TextSize = 18;
 }
 --////////////////////////////////////////////////////////////////
-local StarterGui = game:GetService(KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({8715,12180,10185,11970,12180,10605,11970,7455,12285,11025}))
-local Players = game:GetService(KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({8400,11340,10185,12705,10605,11970,12075}))
+local StarterGui = game:GetService(swqfVZbdqMOJqMODggQXFrsnzCeCob({8715,12180,10185,11970,12180,10605,11970,7455,12285,11025}))
+local Players = game:GetService(swqfVZbdqMOJqMODggQXFrsnzCeCob({8400,11340,10185,12705,10605,11970,12075}))
 local player = Players.LocalPlayer
-local saymsg = game:GetService(KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})):WaitForChild(KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({7140,10605,10710,10185,12285,11340,12180,7035,10920,10185,12180,8715,12705,12075,12180,10605,11445,7035,10920,10185,12180,7245,12390,10605,11550,12180,12075})):WaitForChild(KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({8715,10185,12705,8085,10605,12075,12075,10185,10815,10605,8610,10605,11865,12285,10605,12075,12180}))
-local getmsg = game:GetService(KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})):WaitForChild(KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({7140,10605,10710,10185,12285,11340,12180,7035,10920,10185,12180,8715,12705,12075,12180,10605,11445,7035,10920,10185,12180,7245,12390,10605,11550,12180,12075})):WaitForChild(KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({8295,11550,8085,10605,12075,12075,10185,10815,10605,7140,11655,11550,10605,7350,11025,11340,12180,10605,11970,11025,11550,10815}))
+local saymsg = game:GetService(swqfVZbdqMOJqMODggQXFrsnzCeCob({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})):WaitForChild(swqfVZbdqMOJqMODggQXFrsnzCeCob({7140,10605,10710,10185,12285,11340,12180,7035,10920,10185,12180,8715,12705,12075,12180,10605,11445,7035,10920,10185,12180,7245,12390,10605,11550,12180,12075})):WaitForChild(swqfVZbdqMOJqMODggQXFrsnzCeCob({8715,10185,12705,8085,10605,12075,12075,10185,10815,10605,8610,10605,11865,12285,10605,12075,12180}))
+local getmsg = game:GetService(swqfVZbdqMOJqMODggQXFrsnzCeCob({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})):WaitForChild(swqfVZbdqMOJqMODggQXFrsnzCeCob({7140,10605,10710,10185,12285,11340,12180,7035,10920,10185,12180,8715,12705,12075,12180,10605,11445,7035,10920,10185,12180,7245,12390,10605,11550,12180,12075})):WaitForChild(swqfVZbdqMOJqMODggQXFrsnzCeCob({8295,11550,8085,10605,12075,12075,10185,10815,10605,7140,11655,11550,10605,7350,11025,11340,12180,10605,11970,11025,11550,10815}))
 local instance = (_G.chatSpyInstance or 0) + 1
 _G.chatSpyInstance = instance
 
 local function onChatted(p,msg)
 	if _G.chatSpyInstance == instance then
-		if p==player and msg:lower():sub(1,4)==KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({4935,12075,11760,12705}) then
+		if p==player and msg:lower():sub(1,4)==swqfVZbdqMOJqMODggQXFrsnzCeCob({4935,12075,11760,12705}) then
 			enabled = not enabled
 			wait(0.3)
-			privateProperties.Text = KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({12915,8715,8400,9345,3360})..(enabled and KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({7245,8190}) or KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({7140,7665,8715}))..KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({6825,6930,7980,7245,7140,13125})
-			StarterGui:SetCore(KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({7035,10920,10185,12180,8085,10185,11235,10605,8715,12705,12075,12180,10605,11445,8085,10605,12075,12075,10185,10815,10605}),privateProperties)
+			privateProperties.Text = swqfVZbdqMOJqMODggQXFrsnzCeCob({12915,8715,8400,9345,3360})..(enabled and swqfVZbdqMOJqMODggQXFrsnzCeCob({7245,8190}) or swqfVZbdqMOJqMODggQXFrsnzCeCob({7140,7665,8715}))..swqfVZbdqMOJqMODggQXFrsnzCeCob({6825,6930,7980,7245,7140,13125})
+			StarterGui:SetCore(swqfVZbdqMOJqMODggQXFrsnzCeCob({7035,10920,10185,12180,8085,10185,11235,10605,8715,12705,12075,12180,10605,11445,8085,10605,12075,12075,10185,10815,10605}),privateProperties)
 		elseif enabled and (spyOnMyself==true or p~=player) then
-			msg = msg:gsub(KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({9555,9660,11550,9660,11970,9765}),KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({})):gsub(KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({9660,12180}),KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({3360})):gsub(KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({9555,3360,9765,4515}),KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({3360}))
+			msg = msg:gsub(swqfVZbdqMOJqMODggQXFrsnzCeCob({9555,9660,11550,9660,11970,9765}),swqfVZbdqMOJqMODggQXFrsnzCeCob({})):gsub(swqfVZbdqMOJqMODggQXFrsnzCeCob({9660,12180}),swqfVZbdqMOJqMODggQXFrsnzCeCob({3360})):gsub(swqfVZbdqMOJqMODggQXFrsnzCeCob({9555,3360,9765,4515}),swqfVZbdqMOJqMODggQXFrsnzCeCob({3360}))
 			local hidden = true
 			local conn = getmsg.OnClientEvent:Connect(function(packet,channel)
-				if packet.SpeakerUserId==p.UserId and packet.Message==msg:sub(#msg-#packet.Message+1) and (channel==KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({6825,11340,11340}) or (channel==KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({8820,10605,10185,11445}) and public==false and Players[packet.FromSpeaker].Team==player.Team)) then
+				if packet.SpeakerUserId==p.UserId and packet.Message==msg:sub(#msg-#packet.Message+1) and (channel==swqfVZbdqMOJqMODggQXFrsnzCeCob({6825,11340,11340}) or (channel==swqfVZbdqMOJqMODggQXFrsnzCeCob({8820,10605,10185,11445}) and public==false and Players[packet.FromSpeaker].Team==player.Team)) then
 					hidden = false
 				end
 			end)
@@ -562,10 +478,10 @@ local function onChatted(p,msg)
 			conn:Disconnect()
 			if hidden and enabled then
 				if public then
-					saymsg:FireServer((publicItalics and KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({4935,11445,10605,3360}) or KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({}))..KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({12915,8715,8400,9345,13125,3360,9555}).. p.Name ..KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({9765,6090,3360})..msg,KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({6825,11340,11340}))
+					saymsg:FireServer((publicItalics and swqfVZbdqMOJqMODggQXFrsnzCeCob({4935,11445,10605,3360}) or swqfVZbdqMOJqMODggQXFrsnzCeCob({}))..swqfVZbdqMOJqMODggQXFrsnzCeCob({12915,8715,8400,9345,13125,3360,9555}).. p.Name ..swqfVZbdqMOJqMODggQXFrsnzCeCob({9765,6090,3360})..msg,swqfVZbdqMOJqMODggQXFrsnzCeCob({6825,11340,11340}))
 				else
-					privateProperties.Text = KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({12915,8715,8400,9345,13125,3360,9555}).. p.Name ..KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({9765,6090,3360})..msg
-					StarterGui:SetCore(KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({7035,10920,10185,12180,8085,10185,11235,10605,8715,12705,12075,12180,10605,11445,8085,10605,12075,12075,10185,10815,10605}),privateProperties)
+					privateProperties.Text = swqfVZbdqMOJqMODggQXFrsnzCeCob({12915,8715,8400,9345,13125,3360,9555}).. p.Name ..swqfVZbdqMOJqMODggQXFrsnzCeCob({9765,6090,3360})..msg
+					StarterGui:SetCore(swqfVZbdqMOJqMODggQXFrsnzCeCob({7035,10920,10185,12180,8085,10185,11235,10605,8715,12705,12075,12180,10605,11445,8085,10605,12075,12075,10185,10815,10605}),privateProperties)
 				end
 			end
 		end
@@ -578,30 +494,30 @@ end
 Players.PlayerAdded:Connect(function(p)
 	p.Chatted:Connect(function(msg) onChatted(p,msg) end)
 end)
-privateProperties.Text = KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({12915,8715,8400,9345,3360})..(enabled and KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({7245,8190}) or KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({7140,7665,8715}))..KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({6825,6930,7980,7245,7140,13125})
-StarterGui:SetCore(KUmGXYQOdlrhabnphUxWTHFnSftttwtFYYGaleCnESeibKPqcKcrftjzAGZtmg({7035,10920,10185,12180,8085,10185,11235,10605,8715,12705,12075,12180,10605,11445,8085,10605,12075,12075,10185,10815,10605}),privateProperties)
+privateProperties.Text = swqfVZbdqMOJqMODggQXFrsnzCeCob({12915,8715,8400,9345,3360})..(enabled and swqfVZbdqMOJqMODggQXFrsnzCeCob({7245,8190}) or swqfVZbdqMOJqMODggQXFrsnzCeCob({7140,7665,8715}))..swqfVZbdqMOJqMODggQXFrsnzCeCob({6825,6930,7980,7245,7140,13125})
+StarterGui:SetCore(swqfVZbdqMOJqMODggQXFrsnzCeCob({7035,10920,10185,12180,8085,10185,11235,10605,8715,12705,12075,12180,10605,11445,8085,10605,12075,12075,10185,10815,10605}),privateProperties)
 local chatFrame = player.PlayerGui.Chat.Frame
 chatFrame.ChatChannelParentFrame.Visible = true
 chatFrame.ChatBarParentFrame.Position = chatFrame.ChatChannelParentFrame.Position+UDim2.new(UDim.new(),chatFrame.ChatChannelParentFrame.Size.Y)
 else
 end
 end)
-MainSection:NewToggle("No Dodge CollDown", "Toggo", function(state)
+MainSection:NewToggle(swqfVZbdqMOJqMODggQXFrsnzCeCob({8190,11655,3360,7140,11655,10500,10815,10605,3360,7035,11655,11340,11340,7140,11655,12495,11550}), swqfVZbdqMOJqMODggQXFrsnzCeCob({8820,11655,10815,10815,11655}), function(state)
     if state then
 		local X;
 local func;
 local script = game.Players.LocalPlayer.Backpack.Movements
-X = hookmetamethod(game, "__namecall", function(self, ...)
-   if tostring(self) == "takestam" then
+X = hookmetamethod(game, swqfVZbdqMOJqMODggQXFrsnzCeCob({9975,9975,11550,10185,11445,10605,10395,10185,11340,11340}), function(self, ...)
+   if tostring(self) == swqfVZbdqMOJqMODggQXFrsnzCeCob({12180,10185,11235,10605,12075,12180,10185,11445}) then
        return;
    end
    return X(self, ...)
 end)
 for i,v in pairs(getreg()) do
-   if type(v) == 'function' and getfenv(v).script then
+   if type(v) == swqfVZbdqMOJqMODggQXFrsnzCeCob({10710,12285,11550,10395,12180,11025,11655,11550}) and getfenv(v).script then
        if getfenv(v).script == script then
            local upvalues = getupvalues(v)
-           if tostring(upvalues[12]) == "Ragdolls" then
+           if tostring(upvalues[12]) == swqfVZbdqMOJqMODggQXFrsnzCeCob({8610,10185,10815,10500,11655,11340,11340,12075}) then
                func = v
            end
        end
@@ -615,29 +531,26 @@ end)
 else
 end
 end)
-function jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
-
-
-MainSection:NewToggle(jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({7980,10605,10815,3360,7035,10920,10605,12075,12180,3360,7245,12075,11760}), jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({8400,11970,10605,12075,12075,3360,8190,3360,8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle(swqfVZbdqMOJqMODggQXFrsnzCeCob({7980,10605,10815,3360,7035,10920,10605,12075,12180,3360,7245,12075,11760}), swqfVZbdqMOJqMODggQXFrsnzCeCob({8400,11970,10605,12075,12075,3360,8190,3360,8820,11655,10815,10815,11655}), function(state)
     if state then
 		--thunder hub on top
-local EspFolder = Instance.new(jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({7350,11655,11340,10500,10605,11970}),game.CoreGui)
-EspFolder.Name = jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({7035,10920,10605,12075,12180,7245,12075,11760,7350,11655,11340,10500,10605,11970})
+local EspFolder = Instance.new(swqfVZbdqMOJqMODggQXFrsnzCeCob({7350,11655,11340,10500,10605,11970}),game.CoreGui)
+EspFolder.Name = swqfVZbdqMOJqMODggQXFrsnzCeCob({7035,10920,10605,12075,12180,7245,12075,11760,7350,11655,11340,10500,10605,11970})
 modelsWithEsp = {} 
 while wait() do
 	wait()
-	for i,v in pairs(game:GetService(jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({9135,11655,11970,11235,12075,11760,10185,10395,10605})).Effects:GetChildren()) do
-		if v.ClassName == jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({8085,11655,10500,10605,11340}) and not modelsWithEsp[v] then 
-			local Chest = v:FindFirstChildOfClass(jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({8085,10605,12075,10920,8400,10185,11970,12180}))
-			if Chest and Chest.MeshId == jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5145,5040,5775,5985,5880,5565,5565,5985,5880,5565,5250}) then
-				local esp = Instance.new(jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({6930,11655,12600,7560,10185,11550,10500,11340,10605,6825,10500,11655,11970,11550,11445,10605,11550,12180}),EspFolder)
+	for i,v in pairs(game:GetService(swqfVZbdqMOJqMODggQXFrsnzCeCob({9135,11655,11970,11235,12075,11760,10185,10395,10605})).Effects:GetChildren()) do
+		if v.ClassName == swqfVZbdqMOJqMODggQXFrsnzCeCob({8085,11655,10500,10605,11340}) and not modelsWithEsp[v] then 
+			local Chest = v:FindFirstChildOfClass(swqfVZbdqMOJqMODggQXFrsnzCeCob({8085,10605,12075,10920,8400,10185,11970,12180}))
+			if Chest and Chest.MeshId == swqfVZbdqMOJqMODggQXFrsnzCeCob({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5145,5040,5775,5985,5880,5565,5565,5985,5880,5565,5250}) then
+				local esp = Instance.new(swqfVZbdqMOJqMODggQXFrsnzCeCob({6930,11655,12600,7560,10185,11550,10500,11340,10605,6825,10500,11655,11970,11550,11445,10605,11550,12180}),EspFolder)
 				esp.Adornee = v
 				esp.ZIndex = 0
 				esp.Size = Vector3.new(4, 5, 1)
 				esp.Transparency = 0.65
 				esp.Color3 = Color3.fromRGB(255,48,48)
 				esp.AlwaysOnTop = true
-				esp.Name = jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({7245,12075,11760,6930,11655,12600})
+				esp.Name = swqfVZbdqMOJqMODggQXFrsnzCeCob({7245,12075,11760,6930,11655,12600})
 				modelsWithEsp[v] = true 
 			end
 		end
@@ -646,26 +559,26 @@ end
 else
 end
 end)
-MainSection:NewToggle(jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({8085,12705,12180,10920,11025,10395,10185,11340,3360,7035,10920,10605,12075,12180,3360,7245,12075,11760}), jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({8400,11970,10605,12075,12075,3360,8190,3360,8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle(swqfVZbdqMOJqMODggQXFrsnzCeCob({8085,12705,12180,10920,11025,10395,10185,11340,3360,7035,10920,10605,12075,12180,3360,7245,12075,11760}), swqfVZbdqMOJqMODggQXFrsnzCeCob({8400,11970,10605,12075,12075,3360,8190,3360,8820,11655,10815,10815,11655}), function(state)
     if state then
 		--thunder on top
- local EspFolder = Instance.new(jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({7350,11655,11340,10500,10605,11970}),game.CoreGui)
- EspFolder.Name = jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({7035,10920,10605,12075,12180,7245,12075,11760,7350,11655,11340,10500,10605,11970})
+ local EspFolder = Instance.new(swqfVZbdqMOJqMODggQXFrsnzCeCob({7350,11655,11340,10500,10605,11970}),game.CoreGui)
+ EspFolder.Name = swqfVZbdqMOJqMODggQXFrsnzCeCob({7035,10920,10605,12075,12180,7245,12075,11760,7350,11655,11340,10500,10605,11970})
  modelsWithEsp = {} 
  while wait() do
 	 wait()
-	 for i,v in pairs(game:GetService(jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({9135,11655,11970,11235,12075,11760,10185,10395,10605})).Effects:GetChildren()) do
-		 if v.ClassName == jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({8085,11655,10500,10605,11340}) and not modelsWithEsp[v] then
-			 local Chest = v:FindFirstChildOfClass(jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({8085,10605,12075,10920,8400,10185,11970,12180}))
-			 if Chest and Chest.MeshId == jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5145,5040,5880,5145,5145,5985,5250,5985,5040,5565,5460}) then
-				 local esp = Instance.new(jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({6930,11655,12600,7560,10185,11550,10500,11340,10605,6825,10500,11655,11970,11550,11445,10605,11550,12180}),EspFolder)
+	 for i,v in pairs(game:GetService(swqfVZbdqMOJqMODggQXFrsnzCeCob({9135,11655,11970,11235,12075,11760,10185,10395,10605})).Effects:GetChildren()) do
+		 if v.ClassName == swqfVZbdqMOJqMODggQXFrsnzCeCob({8085,11655,10500,10605,11340}) and not modelsWithEsp[v] then
+			 local Chest = v:FindFirstChildOfClass(swqfVZbdqMOJqMODggQXFrsnzCeCob({8085,10605,12075,10920,8400,10185,11970,12180}))
+			 if Chest and Chest.MeshId == swqfVZbdqMOJqMODggQXFrsnzCeCob({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5145,5040,5880,5145,5145,5985,5250,5985,5040,5565,5460}) then
+				 local esp = Instance.new(swqfVZbdqMOJqMODggQXFrsnzCeCob({6930,11655,12600,7560,10185,11550,10500,11340,10605,6825,10500,11655,11970,11550,11445,10605,11550,12180}),EspFolder)
 				 esp.Adornee = v
 				 esp.ZIndex = 0
 				 esp.Size = Vector3.new(4, 5, 1)
 				 esp.Transparency = 0.65
 				 esp.Color3 = Color3.fromRGB(102,0,255)
 				 esp.AlwaysOnTop = true
-				 esp.Name = jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyBwOFINwnzMydRvDuDSXgwxNCvRt({7245,12075,11760,6930,11655,12600})
+				 esp.Name = swqfVZbdqMOJqMODggQXFrsnzCeCob({7245,12075,11760,6930,11655,12600})
 				 modelsWithEsp[v] = true 
 			 end
 		 end
@@ -673,4 +586,4 @@ MainSection:NewToggle(jrxnxTfspOxscggpVpyqUvjiztBXQwKuAtNhSIfQPPZoRbIqaNdPPKYvyB
  end
 else
 end
-end)
+end)    

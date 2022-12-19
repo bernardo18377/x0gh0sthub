@@ -1,3 +1,12 @@
+function cwiUAFKxGtQGKNLipovPALs(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
+
+
+    game.StarterGui:SetCore(cwiUAFKxGtQGKNLipovPALs({8715,10605,11550,10500,8190,11655,12180,11025,10710,11025,10395,10185,12180,11025,11655,11550}), {
+      Icon = cwiUAFKxGtQGKNLipovPALs({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5670,5985,5775,5880,5355,5775,5040,5040,5040,5670});
+          Title = cwiUAFKxGtQGKNLipovPALs({8715,12285,11340,7560,12285,10290}), 
+      Text = cwiUAFKxGtQGKNLipovPALs({9135,10605,11340,10395,11655,11445,10605,3360,8715,12285,11340,7560,12285,10290,3465})
+  })
+  
 function TycnJLaqhLlzfAviGrcdu(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
 
 

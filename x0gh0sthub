@@ -1,24 +1,20 @@
-function hXtpCzJlezOoefBxoWWSUBuFNim(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
+function zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
 
 
-    game.StarterGui:SetCore(hXtpCzJlezOoefBxoWWSUBuFNim({8715,10605,11550,10500,8190,11655,12180,11025,10710,11025,10395,10185,12180,11025,11655,11550}), {
-      Icon = hXtpCzJlezOoefBxoWWSUBuFNim({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5250,5040,5775,5985,5880,5460,5985});
-          Title = hXtpCzJlezOoefBxoWWSUBuFNim({12390,11655,11340,10395,10185,11550,11655,7560,12285,10290}), 
-      Text = hXtpCzJlezOoefBxoWWSUBuFNim({9135,10605,11340,10395,11655,11445,10605,3360,9030,11655,11340,10395,10185,11550,11655,7560,12285,10290,3465})
+    game.StarterGui:SetCore(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8715,10605,11550,10500,8190,11655,12180,11025,10710,11025,10395,10185,12180,11025,11655,11550}), {
+      Icon = zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5250,5040,5775,5985,5880,5460,5985});
+          Title = zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({12390,11655,11340,10395,10185,11550,11655,7560,12285,10290}), 
+      Text = zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({9135,10605,11340,10395,11655,11445,10605,3360,9030,11655,11340,10395,10185,11550,11655,7560,12285,10290,3465})
   })
-local Library = loadstring(game:HttpGet(hXtpCzJlezOoefBxoWWSUBuFNim({10920,12180,12180,11760,12075,6090,4935,4935,11970,10185,12495,4830,10815,11025,12180,10920,12285,10290,12285,12075,10605,11970,10395,11655,11550,12180,10605,11550,12180,4830,10395,11655,11445,4935,12600,7560,10605,11760,12180,10395,4935,7875,10185,12390,11655,4725,8925,7665,4725,7980,11025,10290,11970,10185,11970,12705,4935,11445,10185,11025,11550,4935,12075,11655,12285,11970,10395,10605,4830,11340,12285,10185})))()
-local Window = Library.CreateLib(hXtpCzJlezOoefBxoWWSUBuFNim({9030,11655,11340,10395,10185,11550,11655,7560,12285,10290}), hXtpCzJlezOoefBxoWWSUBuFNim({6930,11340,11655,11655,10500,8820,10920,10605,11445,10605}))
+local Library = loadstring(game:HttpGet(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({10920,12180,12180,11760,12075,6090,4935,4935,11970,10185,12495,4830,10815,11025,12180,10920,12285,10290,12285,12075,10605,11970,10395,11655,11550,12180,10605,11550,12180,4830,10395,11655,11445,4935,12600,7560,10605,11760,12180,10395,4935,7875,10185,12390,11655,4725,8925,7665,4725,7980,11025,10290,11970,10185,11970,12705,4935,11445,10185,11025,11550,4935,12075,11655,12285,11970,10395,10605,4830,11340,12285,10185})))()
+local Window = Library.CreateLib(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({9030,11655,11340,10395,10185,11550,11655,7560,12285,10290}), zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({6930,11340,11655,11655,10500,8820,10920,10605,11445,10605}))
 
 -- MAIN
-local Main = Window:NewTab(hXtpCzJlezOoefBxoWWSUBuFNim({6930,10185,12180,12180,11340,10605,3360,11970,11655,12705,10185,11340,10605}))
-local MainSection = Main:NewSection(hXtpCzJlezOoefBxoWWSUBuFNim({8085,10605,12075,11445,10185,3360,10395,11655,11025,12075,10185,3360,11865,12285,10605,3360,11655,3360,10500,10605,3360,10290,10185,11025,12600,11655}))
+local Main = Window:NewTab(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({6930,10185,12180,12180,11340,10605,3360,11970,11655,12705,10185,11340,10605}))
+local MainSection = Main:NewSection(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({3360}))
 
 
-MainSection:NewButton(hXtpCzJlezOoefBxoWWSUBuFNim({8190,10185,11655,3360,10710,12285,11550,10395,11025,11655,11550,10185}), hXtpCzJlezOoefBxoWWSUBuFNim({6930,12705,3360,6930,10605,11970,11550,10185,11970,10500,11655,3360,11235,11235,11235,11235,11235,11235,11235,11235,11235}), function()
-    loadstring(game:HttpGet(hXtpCzJlezOoefBxoWWSUBuFNim({10920,12180,12180,11760,12075,6090,4935,4935,11760,10185,12075,12180,10605,10290,11025,11550,4830,10395,11655,11445,4935,11970,10185,12495,4935,5775,12495,7140,10395,8400,12180,7980,11235})))
-end)
-
-MainSection:NewToggle(hXtpCzJlezOoefBxoWWSUBuFNim({7560,11025,12180,10290,11655,12600}), hXtpCzJlezOoefBxoWWSUBuFNim({8400,11970,10605,12075,12075,3360,8190,3360,8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7560,11025,12180,10290,11655,12600}), zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8400,11970,10605,12075,12075,3360,8190,3360,8820,11655,10815,10815,11655}), function(state)
     if state then
 -- Variables
 local player = game.Players.LocalPlayer
@@ -26,8 +22,8 @@ local mouse = player:GetMouse()
 
 -- Settings
 
-bind = hXtpCzJlezOoefBxoWWSUBuFNim({}) 
-bind2 = hXtpCzJlezOoefBxoWWSUBuFNim({11550})
+bind = zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({}) 
+bind2 = zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({11550})
 
 -- Script
 
@@ -44,13 +40,13 @@ _G.Disabled = true
 
 
 if _G.Disabled then
-for i,v in next, game:GetService(hXtpCzJlezOoefBxoWWSUBuFNim({8400,11340,10185,12705,10605,11970,12075})):GetPlayers() do
-if v.Name ~= game:GetService(hXtpCzJlezOoefBxoWWSUBuFNim({8400,11340,10185,12705,10605,11970,12075})).LocalPlayer.Name then
+for i,v in next, game:GetService(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8400,11340,10185,12705,10605,11970,12075})):GetPlayers() do
+if v.Name ~= game:GetService(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8400,11340,10185,12705,10605,11970,12075})).LocalPlayer.Name then
 pcall(function()
 v.Character.HumanoidRootPart.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
-v.Character.HumanoidRootPart.Transparency = 0.5
-v.Character.HumanoidRootPart.BrickColor = BrickColor.new(hXtpCzJlezOoefBxoWWSUBuFNim({8610,10605,10185,11340,11340,12705,3360,6930,11340,12285,10605}))
-v.Character.HumanoidRootPart.Material = hXtpCzJlezOoefBxoWWSUBuFNim({6930,11340,12285,10605})
+v.Character.HumanoidRootPart.Transparency = 0.8
+v.Character.HumanoidRootPart.BrickColor = BrickColor.new(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8610,10605,10185,11340,11340,12705,3360,6930,11340,12285,10605}))
+v.Character.HumanoidRootPart.Material = zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({6930,11340,12285,10605})
 v.Character.HumanoidRootPart.CanCollide = false
 end)
 end
@@ -63,7 +59,7 @@ end)
     end
 end)
 
-MainSection:NewToggle(hXtpCzJlezOoefBxoWWSUBuFNim({7665,11550,10710,3360,7770,12285,11445,11760}), hXtpCzJlezOoefBxoWWSUBuFNim({8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7665,11550,10710,3360,7770,12285,11445,11760}), zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8820,11655,10815,10815,11655}), function(state)
     if state then
 -- Gui to Lua
 -- Version: 3.2
@@ -120,21 +116,21 @@ INFJUMP.TextSize = 14.000
 INFJUMP.MouseButton1Down:connect(function()
 local Player = game:GetService'Players'.LocalPlayer;
 local UIS = game:GetService'UserInputService';
- 
+
 _G.JumpHeight = 50;
- 
+
 function Action(Object, Function) if Object ~= nil then Function(Object); end end
- 
+
 UIS.InputBegan:connect(function(UserInput)
-    if UserInput.UserInputType == Enum.UserInputType.Keyboard and UserInput.KeyCode == Enum.KeyCode.Space then
-        Action(Player.Character.Humanoid, function(self)
-            if self:GetState() == Enum.HumanoidStateType.Jumping or self:GetState() == Enum.HumanoidStateType.Freefall then
-                Action(self.Parent.HumanoidRootPart, function(self)
-                    self.Velocity = Vector3.new(0, _G.JumpHeight, 0);
-                end)
-            end
-        end)
-    end
+  if UserInput.UserInputType == Enum.UserInputType.Keyboard and UserInput.KeyCode == Enum.KeyCode.Space then
+	  Action(Player.Character.Humanoid, function(self)
+		  if self:GetState() == Enum.HumanoidStateType.Jumping or self:GetState() == Enum.HumanoidStateType.Freefall then
+			  Action(self.Parent.HumanoidRootPart, function(self)
+				  self.Velocity = Vector3.new(0, _G.JumpHeight, 0);
+			  end)
+		  end
+	  end)
+  end
 end)
 end)
 
@@ -160,7 +156,7 @@ counter = 0
 
 while wait(0.1)do
 script.Parent.BackgroundColor3 = Color3.fromHSV(zigzag(counter),1,1)
- 
+
 counter = counter + 0.01
 end
 end
@@ -168,40 +164,10 @@ coroutine.wrap(TKDWQ_fake_script)()
 else
 end
 end)
-MainSection:NewToggle(hXtpCzJlezOoefBxoWWSUBuFNim({8610,10605,11445,11655,12390,10605,3360,8190,10185,11445,10605,3360,8820,10185,10815}), hXtpCzJlezOoefBxoWWSUBuFNim({8820,11655,10815,10815,11655}), function(state)
-    if state then
-        local Players = game:FindService(hXtpCzJlezOoefBxoWWSUBuFNim({8400,11340,10185,12705,10605,11970,12075}))
-
-require(game:GetService(hXtpCzJlezOoefBxoWWSUBuFNim({7035,10920,10185,12180})):WaitForChild(hXtpCzJlezOoefBxoWWSUBuFNim({7035,11340,11025,10605,11550,12180,7035,10920,10185,12180,8085,11655,10500,12285,11340,10605,12075})).ChatSettings).PlayerDisplayNamesEnabled = false
-
-local function rename(character,name)
-    repeat task.wait() until character:FindFirstChildWhichIsA(hXtpCzJlezOoefBxoWWSUBuFNim({7560,12285,11445,10185,11550,11655,11025,10500}))
-    character:FindFirstChildWhichIsA(hXtpCzJlezOoefBxoWWSUBuFNim({7560,12285,11445,10185,11550,11655,11025,10500})).DisplayName = name
-end
-
-for i,v in next, Players:GetPlayers() do
-    if v.Character then
-        v.DisplayName = v.Name
-        rename(v.Character,v.Name)
-    end
-    v.CharacterAdded:Connect(function(char)
-        rename(char,v.Name)
-    end)
-end
-
-Players.PlayerAdded:Connect(function(plr)
-    plr.DisplayName = plr.Name
-    plr.CharacterAdded:Connect(function(char)
-        rename(char,plr.Name)
-    end)
-end)
-else
-end
-end)
-    MainSection:NewToggle(hXtpCzJlezOoefBxoWWSUBuFNim({7350,10185,11235,10605,7980,10185,10815,4935,7245,12810,7350,5460,11970,11445}), hXtpCzJlezOoefBxoWWSUBuFNim({6825,11760,10605,11970,12180,10185,3360,7035,11655,11550,12180,11970,11655,11340,3360,7140,11025,11970,10605,11025,12180,11655,3360,11760,10185,11970,10185,3360,6825,12180,11025,12390,10185,11970,3360,10605,3360,7140,10605,12075,10185,12180,11025,12390,10185,11970}), function(state)
+    MainSection:NewToggle(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7350,10185,11235,10605,7980,10185,10815,4935,7245,12810,7350,5460,11970,11445}), zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({6825,11760,10605,11970,12180,10185,3360,7035,11655,11550,12180,11970,11655,11340,3360,7140,11025,11970,10605,11025,12180,11655,3360,11760,10185,11970,10185,3360,6825,12180,11025,12390,10185,11970,3360,10605,3360,7140,10605,12075,10185,12180,11025,12390,10185,11970}), function(state)
         if state then
             setting = settings().Network
-local Effect = Instance.new(hXtpCzJlezOoefBxoWWSUBuFNim({7035,11655,11340,11655,11970,7035,11655,11970,11970,10605,10395,12180,11025,11655,11550,7245,10710,10710,10605,10395,12180}))
+local Effect = Instance.new(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7035,11655,11340,11655,11970,7035,11655,11970,11970,10605,10395,12180,11025,11655,11550,7245,10710,10710,10605,10395,12180}))
 Effect.Parent = game.Lighting
 Effect.Saturation = -1
 Effect.Brightness = 0
@@ -224,12 +190,12 @@ function onKeyPress(inputObject, gameProcessedEvent)
 	end
 end
 
-game:GetService(hXtpCzJlezOoefBxoWWSUBuFNim({8925,12075,10605,11970,7665,11550,11760,12285,12180,8715,10605,11970,12390,11025,10395,10605})).InputBegan:connect(onKeyPress)
+game:GetService(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8925,12075,10605,11970,7665,11550,11760,12285,12180,8715,10605,11970,12390,11025,10395,10605})).InputBegan:connect(onKeyPress)
 else
 end
 end)
 
-MainSection:NewToggle(hXtpCzJlezOoefBxoWWSUBuFNim({7245,12075,11760}), hXtpCzJlezOoefBxoWWSUBuFNim({8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7245,12075,11760}), zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8820,11655,10815,10815,11655}), function(state)
     if state then
 		--// Universal Box ESP (Works on Arsenal and other games)
 
@@ -241,8 +207,8 @@ local settings = {
  };
  
  -- services
- local runService = game:GetService(hXtpCzJlezOoefBxoWWSUBuFNim({8610,12285,11550,8715,10605,11970,12390,11025,10395,10605}));
- local players = game:GetService(hXtpCzJlezOoefBxoWWSUBuFNim({8400,11340,10185,12705,10605,11970,12075}));
+ local runService = game:GetService(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8610,12285,11550,8715,10605,11970,12390,11025,10395,10605}));
+ local players = game:GetService(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8400,11340,10185,12705,10605,11970,12075}));
  
  -- variables
  local localPlayer = players.LocalPlayer;
@@ -258,14 +224,14 @@ local settings = {
  local function createEsp(player)
 	local drawings = {};
 	
-	drawings.box = newDrawing(hXtpCzJlezOoefBxoWWSUBuFNim({8715,11865,12285,10185,11970,10605}));
+	drawings.box = newDrawing(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8715,11865,12285,10185,11970,10605}));
 	drawings.box.Thickness = 1;
 	drawings.box.Filled = false;
 	drawings.box.Color = settings.defaultcolor;
 	drawings.box.Visible = false;
 	drawings.box.ZIndex = 2;
  
-	drawings.boxoutline = newDrawing(hXtpCzJlezOoefBxoWWSUBuFNim({8715,11865,12285,10185,11970,10605}));
+	drawings.boxoutline = newDrawing(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8715,11865,12285,10185,11970,10605}));
 	drawings.boxoutline.Thickness = 2;
 	drawings.boxoutline.Filled = false;
 	drawings.boxoutline.Color = newColor3();
@@ -325,7 +291,7 @@ local settings = {
 	removeEsp(player);
  end)
  
- runService:BindToRenderStep(hXtpCzJlezOoefBxoWWSUBuFNim({10605,12075,11760}), Enum.RenderPriority.Camera.Value, function()
+ runService:BindToRenderStep(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({10605,12075,11760}), Enum.RenderPriority.Camera.Value, function()
 	for player, drawings in next, espCache do
 		if settings.teamcheck and player.Team == localPlayer.Team then
 			continue;
@@ -340,108 +306,40 @@ else
 end
 end)
 
-local speed = Window:NewTab(hXtpCzJlezOoefBxoWWSUBuFNim({8715,11760,10605,10605,10500}))
-local rs = speed:NewSection(hXtpCzJlezOoefBxoWWSUBuFNim({7035,7350,11970,10185,11445,10605,3360,8715,11760,10605,10605,10500}))
-rs:NewButton(hXtpCzJlezOoefBxoWWSUBuFNim({7035,7350,11970,10185,11445,10605,3360,7455,12285,11550,12075,3360,7350,7665,9240}), hXtpCzJlezOoefBxoWWSUBuFNim({6930,12285,12180,12180,11655,11550,7665,11550,10710,11655}), function()
-    for _, v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
-        if v:IsA(hXtpCzJlezOoefBxoWWSUBuFNim({8715,10395,11970,11025,11760,12180})) and v.Name ~= hXtpCzJlezOoefBxoWWSUBuFNim({7560,10605,10185,11340,12180,10920}) and v.Name ~= hXtpCzJlezOoefBxoWWSUBuFNim({8715,11655,12285,11550,10500}) and v:FindFirstChild(hXtpCzJlezOoefBxoWWSUBuFNim({7980,11655,10395,10185,11340,8715,10395,11970,11025,11760,12180})) then
-            v:Destroy()
-        end
-    end
-    game.Players.LocalPlayer.CharacterAdded:Connect(function(char)
-        repeat
-            wait()
-        until game.Players.LocalPlayer.Character
-        char.ChildAdded:Connect(function(child)
-            if child:IsA(hXtpCzJlezOoefBxoWWSUBuFNim({8715,10395,11970,11025,11760,12180})) then 
-                wait(0.1)
-                if child:FindFirstChild(hXtpCzJlezOoefBxoWWSUBuFNim({7980,11655,10395,10185,11340,8715,10395,11970,11025,11760,12180})) then
-                    child.LocalScript:FireServer()
-                end
-            end
-        end)
-    end)
-end)
-rs:NewButton(hXtpCzJlezOoefBxoWWSUBuFNim({7035,7350,11970,10185,11445,10605,3360,8715,11760,10605,10605,10500,3360,4200,9450,4305}), hXtpCzJlezOoefBxoWWSUBuFNim({6930,12285,12180,12180,11655,11550,7665,11550,10710,11655}), function()
-    	repeat
-		wait()
-	until game:IsLoaded()
-	local L_134_ = game:service(hXtpCzJlezOoefBxoWWSUBuFNim({8400,11340,10185,12705,10605,11970,12075}))
-	local L_135_ = L_134_.LocalPlayer
-	repeat
-		wait()
-	until L_135_.Character
-	local L_136_ = game:service(hXtpCzJlezOoefBxoWWSUBuFNim({8925,12075,10605,11970,7665,11550,11760,12285,12180,8715,10605,11970,12390,11025,10395,10605}))
-	local L_137_ = game:service(hXtpCzJlezOoefBxoWWSUBuFNim({8610,12285,11550,8715,10605,11970,12390,11025,10395,10605}))
-	getgenv().Multiplier = 0.5
-	local L_138_ = true
-	local L_139_
-	L_136_.InputBegan:connect(function(L_140_arg0)
-		if L_140_arg0.KeyCode == Enum.KeyCode.LeftBracket then
-			Multiplier = Multiplier + 0.01
-			print(Multiplier)
-			wait(0.2)
-			while L_136_:IsKeyDown(Enum.KeyCode.LeftBracket) do
-				wait()
-				Multiplier = Multiplier + 0.01
-				print(Multiplier)
-			end
-		end
-		if L_140_arg0.KeyCode == Enum.KeyCode.RightBracket then
-			Multiplier = Multiplier - 0.01
-			print(Multiplier)
-			wait(0.2)
-			while L_136_:IsKeyDown(Enum.KeyCode.RightBracket) do
-				wait()
-				Multiplier = Multiplier - 0.01
-				print(Multiplier)
-			end
-		end
-		if L_140_arg0.KeyCode == Enum.KeyCode.Z then
-			L_138_ = not L_138_
-			if L_138_ == true then
-				repeat
-					game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame + game.Players.LocalPlayer.Character.Humanoid.MoveDirection * Multiplier
-					game:GetService(hXtpCzJlezOoefBxoWWSUBuFNim({8610,12285,11550,8715,10605,11970,12390,11025,10395,10605})).Stepped:wait()
-				until L_138_ == false
-			end
-		end
-	end)
-end)
-rs:NewSlider(hXtpCzJlezOoefBxoWWSUBuFNim({7035,7350,11970,10185,11445,10605,3360,8715,11760,10605,10605,10500,3360}), hXtpCzJlezOoefBxoWWSUBuFNim({8715,11340,11025,10500,10605,11970,7665,11550,10710,11655}), 5, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
-    getgenv().Multiplier = s
-end)
-rs:NewKeybind(hXtpCzJlezOoefBxoWWSUBuFNim({8820,11655,10815,10815,11340,10605,3360,8925,7665}), hXtpCzJlezOoefBxoWWSUBuFNim({7875,10605,12705,10290,11025,11550,10500,7665,11550,10710,11655}), Enum.KeyCode.RightControl, function()
+local speed = Window:NewTab(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8715,11760,10605,10605,10500}))
+local rs = speed:NewSection(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({3360}))
+rs:NewKeybind(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8820,11655,10815,10815,11340,10605,3360,8925,7665}), zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7875,10605,12705,10290,11025,11550,10500,7665,11550,10710,11655}), Enum.KeyCode.RightControl, function()
 	Library.ToggleUI()
 end)
+local rs = speed:NewSection(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({3360}))
 
-MainSection:NewToggle(hXtpCzJlezOoefBxoWWSUBuFNim({8715,11760,10605,10605,10500,3360,6825,11550,12180,3360,6930,10185,11550,3360,4200,7035,10185,11760,12075,3360,7980,11655,10395,11235,4305,3360}), hXtpCzJlezOoefBxoWWSUBuFNim({8400,11970,10605,12075,12075,3360,7035,10185,11760,12075,7980,11655,10395,11235}), function(state)
+MainSection:NewToggle(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8715,11760,10605,10605,10500,3360,6825,11550,12180,3360,6930,10185,11550,3360,4200,7035,10185,11760,12075,3360,7980,11655,10395,11235,4305,3360}), zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8400,11970,10605,12075,12075,3360,7035,10185,11760,12075,7980,11655,10395,11235}), function(state)
     if state then
 --Skid this shut as much as u want lmao
 local Player = game:GetService'Players'.LocalPlayer;
 local UIS = game:GetService'UserInputService';
 UIS.InputBegan:connect(function(UserInput)
-        if UserInput.UserInputType == Enum.UserInputType.Keyboard and UserInput.KeyCode == Enum.KeyCode.CapsLock then
-            _G.Running = true
-                while wait(0.05) and _G.Running == true do
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame + game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.lookVector * 1
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame + game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.lookVector * 1
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame + game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.lookVector * 1
+	  if UserInput.UserInputType == Enum.UserInputType.Keyboard and UserInput.KeyCode == Enum.KeyCode.CapsLock then
+		  _G.Running = true
+			  while wait(0.05) and _G.Running == true do
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame + game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.lookVector * 0.7
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame + game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.lookVector * 0.7
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame + game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.lookVector * 0.7
 end
-        end
+	  end
 end)
 UIS.InputEnded:connect(function(UserInput)
-        if UserInput.UserInputType == Enum.UserInputType.Keyboard and UserInput.KeyCode == Enum.KeyCode.CapsLock then
-                _G.Running = false
-        end
+	  if UserInput.UserInputType == Enum.UserInputType.Keyboard and UserInput.KeyCode == Enum.KeyCode.CapsLock then
+			  _G.Running = false
+	  end
 end)
 else
 end
 end)
-MainSection:NewToggle(hXtpCzJlezOoefBxoWWSUBuFNim({7035,10920,10185,12180,3360,7980,11655,10815,10815,10605,11970}), hXtpCzJlezOoefBxoWWSUBuFNim({8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7035,10920,10185,12180,3360,7980,11655,10815,10815,10605,11970}), zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8820,11655,10815,10815,11655}), function(state)
     if state then
 		--This script reveals ALL hidden messages in the default chat
---chat hXtpCzJlezOoefBxoWWSUBuFNim({4935,12075,11760,12705}) to toggle!
+--chat zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({4935,12075,11760,12705}) to toggle!
 enabled = true
 --if true will check your messages too
 spyOnMyself = true
@@ -456,26 +354,26 @@ privateProperties = {
 	TextSize = 18;
 }
 --////////////////////////////////////////////////////////////////
-local StarterGui = game:GetService(hXtpCzJlezOoefBxoWWSUBuFNim({8715,12180,10185,11970,12180,10605,11970,7455,12285,11025}))
-local Players = game:GetService(hXtpCzJlezOoefBxoWWSUBuFNim({8400,11340,10185,12705,10605,11970,12075}))
+local StarterGui = game:GetService(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8715,12180,10185,11970,12180,10605,11970,7455,12285,11025}))
+local Players = game:GetService(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8400,11340,10185,12705,10605,11970,12075}))
 local player = Players.LocalPlayer
-local saymsg = game:GetService(hXtpCzJlezOoefBxoWWSUBuFNim({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})):WaitForChild(hXtpCzJlezOoefBxoWWSUBuFNim({7140,10605,10710,10185,12285,11340,12180,7035,10920,10185,12180,8715,12705,12075,12180,10605,11445,7035,10920,10185,12180,7245,12390,10605,11550,12180,12075})):WaitForChild(hXtpCzJlezOoefBxoWWSUBuFNim({8715,10185,12705,8085,10605,12075,12075,10185,10815,10605,8610,10605,11865,12285,10605,12075,12180}))
-local getmsg = game:GetService(hXtpCzJlezOoefBxoWWSUBuFNim({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})):WaitForChild(hXtpCzJlezOoefBxoWWSUBuFNim({7140,10605,10710,10185,12285,11340,12180,7035,10920,10185,12180,8715,12705,12075,12180,10605,11445,7035,10920,10185,12180,7245,12390,10605,11550,12180,12075})):WaitForChild(hXtpCzJlezOoefBxoWWSUBuFNim({8295,11550,8085,10605,12075,12075,10185,10815,10605,7140,11655,11550,10605,7350,11025,11340,12180,10605,11970,11025,11550,10815}))
+local saymsg = game:GetService(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})):WaitForChild(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7140,10605,10710,10185,12285,11340,12180,7035,10920,10185,12180,8715,12705,12075,12180,10605,11445,7035,10920,10185,12180,7245,12390,10605,11550,12180,12075})):WaitForChild(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8715,10185,12705,8085,10605,12075,12075,10185,10815,10605,8610,10605,11865,12285,10605,12075,12180}))
+local getmsg = game:GetService(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})):WaitForChild(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7140,10605,10710,10185,12285,11340,12180,7035,10920,10185,12180,8715,12705,12075,12180,10605,11445,7035,10920,10185,12180,7245,12390,10605,11550,12180,12075})):WaitForChild(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8295,11550,8085,10605,12075,12075,10185,10815,10605,7140,11655,11550,10605,7350,11025,11340,12180,10605,11970,11025,11550,10815}))
 local instance = (_G.chatSpyInstance or 0) + 1
 _G.chatSpyInstance = instance
 
 local function onChatted(p,msg)
 	if _G.chatSpyInstance == instance then
-		if p==player and msg:lower():sub(1,4)==hXtpCzJlezOoefBxoWWSUBuFNim({4935,12075,11760,12705}) then
+		if p==player and msg:lower():sub(1,4)==zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({4935,12075,11760,12705}) then
 			enabled = not enabled
 			wait(0.3)
-			privateProperties.Text = hXtpCzJlezOoefBxoWWSUBuFNim({12915,8715,8400,9345,3360})..(enabled and hXtpCzJlezOoefBxoWWSUBuFNim({7245,8190}) or hXtpCzJlezOoefBxoWWSUBuFNim({7140,7665,8715}))..hXtpCzJlezOoefBxoWWSUBuFNim({6825,6930,7980,7245,7140,13125})
-			StarterGui:SetCore(hXtpCzJlezOoefBxoWWSUBuFNim({7035,10920,10185,12180,8085,10185,11235,10605,8715,12705,12075,12180,10605,11445,8085,10605,12075,12075,10185,10815,10605}),privateProperties)
+			privateProperties.Text = zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({12915,8715,8400,9345,3360})..(enabled and zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7245,8190}) or zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7140,7665,8715}))..zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({6825,6930,7980,7245,7140,13125})
+			StarterGui:SetCore(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7035,10920,10185,12180,8085,10185,11235,10605,8715,12705,12075,12180,10605,11445,8085,10605,12075,12075,10185,10815,10605}),privateProperties)
 		elseif enabled and (spyOnMyself==true or p~=player) then
-			msg = msg:gsub(hXtpCzJlezOoefBxoWWSUBuFNim({9555,9660,11550,9660,11970,9765}),hXtpCzJlezOoefBxoWWSUBuFNim({})):gsub(hXtpCzJlezOoefBxoWWSUBuFNim({9660,12180}),hXtpCzJlezOoefBxoWWSUBuFNim({3360})):gsub(hXtpCzJlezOoefBxoWWSUBuFNim({9555,3360,9765,4515}),hXtpCzJlezOoefBxoWWSUBuFNim({3360}))
+			msg = msg:gsub(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({9555,9660,11550,9660,11970,9765}),zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({})):gsub(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({9660,12180}),zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({3360})):gsub(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({9555,3360,9765,4515}),zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({3360}))
 			local hidden = true
 			local conn = getmsg.OnClientEvent:Connect(function(packet,channel)
-				if packet.SpeakerUserId==p.UserId and packet.Message==msg:sub(#msg-#packet.Message+1) and (channel==hXtpCzJlezOoefBxoWWSUBuFNim({6825,11340,11340}) or (channel==hXtpCzJlezOoefBxoWWSUBuFNim({8820,10605,10185,11445}) and public==false and Players[packet.FromSpeaker].Team==player.Team)) then
+				if packet.SpeakerUserId==p.UserId and packet.Message==msg:sub(#msg-#packet.Message+1) and (channel==zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({6825,11340,11340}) or (channel==zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8820,10605,10185,11445}) and public==false and Players[packet.FromSpeaker].Team==player.Team)) then
 					hidden = false
 				end
 			end)
@@ -483,10 +381,10 @@ local function onChatted(p,msg)
 			conn:Disconnect()
 			if hidden and enabled then
 				if public then
-					saymsg:FireServer((publicItalics and hXtpCzJlezOoefBxoWWSUBuFNim({4935,11445,10605,3360}) or hXtpCzJlezOoefBxoWWSUBuFNim({}))..hXtpCzJlezOoefBxoWWSUBuFNim({12915,8715,8400,9345,13125,3360,9555}).. p.Name ..hXtpCzJlezOoefBxoWWSUBuFNim({9765,6090,3360})..msg,hXtpCzJlezOoefBxoWWSUBuFNim({6825,11340,11340}))
+					saymsg:FireServer((publicItalics and zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({4935,11445,10605,3360}) or zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({}))..zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({12915,8715,8400,9345,13125,3360,9555}).. p.Name ..zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({9765,6090,3360})..msg,zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({6825,11340,11340}))
 				else
-					privateProperties.Text = hXtpCzJlezOoefBxoWWSUBuFNim({12915,8715,8400,9345,13125,3360,9555}).. p.Name ..hXtpCzJlezOoefBxoWWSUBuFNim({9765,6090,3360})..msg
-					StarterGui:SetCore(hXtpCzJlezOoefBxoWWSUBuFNim({7035,10920,10185,12180,8085,10185,11235,10605,8715,12705,12075,12180,10605,11445,8085,10605,12075,12075,10185,10815,10605}),privateProperties)
+					privateProperties.Text = zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({12915,8715,8400,9345,13125,3360,9555}).. p.Name ..zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({9765,6090,3360})..msg
+					StarterGui:SetCore(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7035,10920,10185,12180,8085,10185,11235,10605,8715,12705,12075,12180,10605,11445,8085,10605,12075,12075,10185,10815,10605}),privateProperties)
 				end
 			end
 		end
@@ -499,63 +397,63 @@ end
 Players.PlayerAdded:Connect(function(p)
 	p.Chatted:Connect(function(msg) onChatted(p,msg) end)
 end)
-privateProperties.Text = hXtpCzJlezOoefBxoWWSUBuFNim({12915,8715,8400,9345,3360})..(enabled and hXtpCzJlezOoefBxoWWSUBuFNim({7245,8190}) or hXtpCzJlezOoefBxoWWSUBuFNim({7140,7665,8715}))..hXtpCzJlezOoefBxoWWSUBuFNim({6825,6930,7980,7245,7140,13125})
-StarterGui:SetCore(hXtpCzJlezOoefBxoWWSUBuFNim({7035,10920,10185,12180,8085,10185,11235,10605,8715,12705,12075,12180,10605,11445,8085,10605,12075,12075,10185,10815,10605}),privateProperties)
+privateProperties.Text = zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({12915,8715,8400,9345,3360})..(enabled and zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7245,8190}) or zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7140,7665,8715}))..zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({6825,6930,7980,7245,7140,13125})
+StarterGui:SetCore(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7035,10920,10185,12180,8085,10185,11235,10605,8715,12705,12075,12180,10605,11445,8085,10605,12075,12075,10185,10815,10605}),privateProperties)
 local chatFrame = player.PlayerGui.Chat.Frame
 chatFrame.ChatChannelParentFrame.Visible = true
 chatFrame.ChatBarParentFrame.Position = chatFrame.ChatChannelParentFrame.Position+UDim2.new(UDim.new(),chatFrame.ChatChannelParentFrame.Size.Y)
 else
 end
 end)
-MainSection:NewToggle(hXtpCzJlezOoefBxoWWSUBuFNim({8190,11655,3360,7140,11655,10500,10815,10605,3360,7035,11655,11340,11340,7140,11655,12495,11550}), hXtpCzJlezOoefBxoWWSUBuFNim({8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8190,11655,3360,7140,11655,10500,10815,10605,3360,7035,11655,11340,11340,7140,11655,12495,11550}), zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8820,11655,10815,10815,11655}), function(state)
     if state then
 		local X;
-local func;
-local script = game.Players.LocalPlayer.Backpack.Movements
-X = hookmetamethod(game, "__namecall", function(self, ...)
-   if tostring(self) == "takestam" then
-       return;
-   end
-   return X(self, ...)
-end)
-for i,v in pairs(getreg()) do
-   if type(v) == 'function' and getfenv(v).script then
-       if getfenv(v).script == script then
-           local upvalues = getupvalues(v)
-           if tostring(upvalues[12]) == "Ragdolls" then
-               func = v
-           end
-       end
-   end
-end
-spawn(function()
-   while wait() do
-       setupvalue(func, 6, false)
-   end
-end)
-else
-end
-end)
-MainSection:NewToggle(hXtpCzJlezOoefBxoWWSUBuFNim({7980,10605,10815,3360,7035,10920,10605,12075,12180,3360,7245,12075,11760}), hXtpCzJlezOoefBxoWWSUBuFNim({8400,11970,10605,12075,12075,3360,8190,3360,8820,11655,10815,10815,11655}), function(state)
+		local func;
+		local script = game.Players.LocalPlayer.Backpack.Movements
+		X = hookmetamethod(game, "__namecall", function(self, ...)
+		 if tostring(self) == "takestam" then
+			 return;
+		 end
+		 return X(self, ...)
+		end)
+		for i,v in pairs(getreg()) do
+		 if type(v) == 'function' and getfenv(v).script then
+			 if getfenv(v).script == script then
+				 local upvalues = getupvalues(v)
+				 if tostring(upvalues[12]) == "Ragdolls" then
+					 func = v
+				 end
+			 end
+		 end
+		end
+		spawn(function()
+		 while wait() do
+			 setupvalue(func, 6, false)
+		 end
+		end)
+		else
+		end
+		end)
+MainSection:NewToggle(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7980,10605,10815,3360,7035,10920,10605,12075,12180,3360,7245,12075,11760}), zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8400,11970,10605,12075,12075,3360,8190,3360,8820,11655,10815,10815,11655}), function(state)
     if state then
 		--thunder hub on top
-local EspFolder = Instance.new(hXtpCzJlezOoefBxoWWSUBuFNim({7350,11655,11340,10500,10605,11970}),game.CoreGui)
-EspFolder.Name = hXtpCzJlezOoefBxoWWSUBuFNim({7035,10920,10605,12075,12180,7245,12075,11760,7350,11655,11340,10500,10605,11970})
+local EspFolder = Instance.new(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7350,11655,11340,10500,10605,11970}),game.CoreGui)
+EspFolder.Name = zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7035,10920,10605,12075,12180,7245,12075,11760,7350,11655,11340,10500,10605,11970})
 modelsWithEsp = {} 
 while wait() do
 	wait()
-	for i,v in pairs(game:GetService(hXtpCzJlezOoefBxoWWSUBuFNim({9135,11655,11970,11235,12075,11760,10185,10395,10605})).Effects:GetChildren()) do
-		if v.ClassName == hXtpCzJlezOoefBxoWWSUBuFNim({8085,11655,10500,10605,11340}) and not modelsWithEsp[v] then 
-			local Chest = v:FindFirstChildOfClass(hXtpCzJlezOoefBxoWWSUBuFNim({8085,10605,12075,10920,8400,10185,11970,12180}))
-			if Chest and Chest.MeshId == hXtpCzJlezOoefBxoWWSUBuFNim({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5145,5040,5775,5985,5880,5565,5565,5985,5880,5565,5250}) then
-				local esp = Instance.new(hXtpCzJlezOoefBxoWWSUBuFNim({6930,11655,12600,7560,10185,11550,10500,11340,10605,6825,10500,11655,11970,11550,11445,10605,11550,12180}),EspFolder)
+	for i,v in pairs(game:GetService(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({9135,11655,11970,11235,12075,11760,10185,10395,10605})).Effects:GetChildren()) do
+		if v.ClassName == zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8085,11655,10500,10605,11340}) and not modelsWithEsp[v] then 
+			local Chest = v:FindFirstChildOfClass(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8085,10605,12075,10920,8400,10185,11970,12180}))
+			if Chest and Chest.MeshId == zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5145,5040,5775,5985,5880,5565,5565,5985,5880,5565,5250}) then
+				local esp = Instance.new(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({6930,11655,12600,7560,10185,11550,10500,11340,10605,6825,10500,11655,11970,11550,11445,10605,11550,12180}),EspFolder)
 				esp.Adornee = v
 				esp.ZIndex = 0
 				esp.Size = Vector3.new(4, 5, 1)
 				esp.Transparency = 0.65
 				esp.Color3 = Color3.fromRGB(255,48,48)
 				esp.AlwaysOnTop = true
-				esp.Name = hXtpCzJlezOoefBxoWWSUBuFNim({7245,12075,11760,6930,11655,12600})
+				esp.Name = zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7245,12075,11760,6930,11655,12600})
 				modelsWithEsp[v] = true 
 			end
 		end
@@ -564,26 +462,26 @@ end
 else
 end
 end)
-MainSection:NewToggle(hXtpCzJlezOoefBxoWWSUBuFNim({8085,12705,12180,10920,11025,10395,10185,11340,3360,7035,10920,10605,12075,12180,3360,7245,12075,11760}), hXtpCzJlezOoefBxoWWSUBuFNim({8400,11970,10605,12075,12075,3360,8190,3360,8820,11655,10815,10815,11655}), function(state)
+MainSection:NewToggle(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8085,12705,12180,10920,11025,10395,10185,11340,3360,7035,10920,10605,12075,12180,3360,7245,12075,11760}), zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8400,11970,10605,12075,12075,3360,8190,3360,8820,11655,10815,10815,11655}), function(state)
     if state then
 		--thunder on top
- local EspFolder = Instance.new(hXtpCzJlezOoefBxoWWSUBuFNim({7350,11655,11340,10500,10605,11970}),game.CoreGui)
- EspFolder.Name = hXtpCzJlezOoefBxoWWSUBuFNim({7035,10920,10605,12075,12180,7245,12075,11760,7350,11655,11340,10500,10605,11970})
+ local EspFolder = Instance.new(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7350,11655,11340,10500,10605,11970}),game.CoreGui)
+ EspFolder.Name = zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7035,10920,10605,12075,12180,7245,12075,11760,7350,11655,11340,10500,10605,11970})
  modelsWithEsp = {} 
  while wait() do
 	 wait()
-	 for i,v in pairs(game:GetService(hXtpCzJlezOoefBxoWWSUBuFNim({9135,11655,11970,11235,12075,11760,10185,10395,10605})).Effects:GetChildren()) do
-		 if v.ClassName == hXtpCzJlezOoefBxoWWSUBuFNim({8085,11655,10500,10605,11340}) and not modelsWithEsp[v] then
-			 local Chest = v:FindFirstChildOfClass(hXtpCzJlezOoefBxoWWSUBuFNim({8085,10605,12075,10920,8400,10185,11970,12180}))
-			 if Chest and Chest.MeshId == hXtpCzJlezOoefBxoWWSUBuFNim({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5145,5040,5880,5145,5145,5985,5250,5985,5040,5565,5460}) then
-				 local esp = Instance.new(hXtpCzJlezOoefBxoWWSUBuFNim({6930,11655,12600,7560,10185,11550,10500,11340,10605,6825,10500,11655,11970,11550,11445,10605,11550,12180}),EspFolder)
+	 for i,v in pairs(game:GetService(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({9135,11655,11970,11235,12075,11760,10185,10395,10605})).Effects:GetChildren()) do
+		 if v.ClassName == zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8085,11655,10500,10605,11340}) and not modelsWithEsp[v] then
+			 local Chest = v:FindFirstChildOfClass(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({8085,10605,12075,10920,8400,10185,11970,12180}))
+			 if Chest and Chest.MeshId == zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5145,5040,5880,5145,5145,5985,5250,5985,5040,5565,5460}) then
+				 local esp = Instance.new(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({6930,11655,12600,7560,10185,11550,10500,11340,10605,6825,10500,11655,11970,11550,11445,10605,11550,12180}),EspFolder)
 				 esp.Adornee = v
 				 esp.ZIndex = 0
 				 esp.Size = Vector3.new(4, 5, 1)
 				 esp.Transparency = 0.65
 				 esp.Color3 = Color3.fromRGB(102,0,255)
 				 esp.AlwaysOnTop = true
-				 esp.Name = hXtpCzJlezOoefBxoWWSUBuFNim({7245,12075,11760,6930,11655,12600})
+				 esp.Name = zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({7245,12075,11760,6930,11655,12600})
 				 modelsWithEsp[v] = true 
 			 end
 		 end
@@ -592,3 +490,4 @@ MainSection:NewToggle(hXtpCzJlezOoefBxoWWSUBuFNim({8085,12705,12180,10920,11025,
 else
 end
 end)
+local MainSection = Main:NewSection(zZYjDdGKmiqKODcxAEiFMLTeObXudNxLMxGmpLsi({3360}))    
